@@ -60,7 +60,7 @@ The examiner feedback for the first session under the four-criteria scheme (para
 
 *Provenance note:* the criterion profiles in the tables below aggregate a corpus of real student IAs with confirmed component grades collected from teacher-accessible sources, cross-checked against the official assessed samples. Corpus scores are internally consistent (criterion sums match reported totals) but are indicative, not official — the official grade boundaries remain authoritative.
 
-Implication for marking: a "safe standard" investigation (enzyme/osmosis/germination) with good execution is a solid 4–5; reaching 6 in Research design or Conclusion in this session required genuine depth of justification and scientific context — the thing the report says standard experiments limit.
+Implication for marking: a "safe standard" investigation (enzyme/osmosis/germination) with good execution is a solid 4–5; reaching 6 in Research design or Conclusion in this session required genuine depth of justification and scientific context — the thing the report says standard experiments limit. Full examiner feedback across subjects and sessions (chemistry per-strand guidance, physics rounding laws and evaluation insight, biology hypothesis framing) lives in `references/session-subject-reports.md`.
 
 ## Where to find more graded samples (current-syllabus only)
 
