@@ -4,12 +4,12 @@
   "version": "0.3.0",
   "description": "PraxIS — IB DP Sciences practical & IA suite: lesson-practical design, IA co-planning, review, marking, submission files.",
   "author": {
-    "name": "PraxIS contributors",
+    "name": "Jakub Grzeszczuk",
     "url": ""
   },
   "license": "MIT",
-  "homepage": "https://github.com/LittleJakub/ib-sciences-praxis",
-  "repository": "https://github.com/LittleJakub/ib-sciences-praxis",
+  "homepage": "https://github.com/LittleJakub/PraxIS",
+  "repository": "https://github.com/LittleJakub/PraxIS",
   "keywords": [
     "ib",
     "dp",

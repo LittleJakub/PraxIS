@@ -6,7 +6,7 @@ compatibility: Requires Python >=3.10. No external services.
 license: MIT
 metadata:
   version: "0.1.0"
-  skill-author: PraxIS contributors (via Hermes Agent)
+  skill-author: Jakub Grzeszczuk (via Hermes Agent)
 ---
 
 # Equipment Inventory
