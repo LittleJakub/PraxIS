@@ -2,7 +2,7 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "ib-sciences-praxis",
   "version": "0.3.0",
-  "description": "PraxIS — IB DP Sciences practical & IA suite: lesson-practical design, IA co-planning, review, marking, submission files.",
+  "description": "PraxIS — IB DP Sciences practical & IA suite: lesson-practical design, IA co-planning, review, marking support, submission files.",
   "author": {
     "name": "Jakub Grzeszczuk",
     "url": ""

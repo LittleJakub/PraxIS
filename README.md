@@ -10,7 +10,7 @@ Curriculum-layer [Agent Skills](https://agentskills.io/) for the IB DP Group 4 s
 
 - **Design guidance** — co-shape a student's IA idea into a unique, quantifiable research question and a feasible, criteria-ready methodology (scaffolding, never ghost-writing)
 - **Review** — criterion-referenced critique and comments on a student's plan or draft
-- **Mark** — mark a final report against the official current criteria with evidence-based justification, calibrated against 800+ real graded IAs (596 with full four-criteria scores: 220 Biology, 199 Chemistry, 177 Physics)
+- **Marking support** — support the teacher in marking a final report against the official criteria with evidence-based justification, calibrated against 800+ real graded IAs (596 with full four-criteria scores: 220 Biology, 199 Chemistry, 177 Physics)
 - **Lesson practical design** — plan practicals and activities for lessons from a topic and the equipment the school actually has
 - **Submission pack** — the completeness checks and files needed for IB submission (word count, appendices rule, cover-sheet fields, teacher's per-criterion comments, moderation-sample advice)
 
@@ -59,7 +59,7 @@ Ask your agent, for example:
 
 - *"My student wants to investigate enzymes for their Biology IA. Help me guide their design — SL, 10 hours, we have colorimeters and water baths."* → Mode A
 - *"Here is my chemistry student's draft — review it against the criteria."* → Mode B
-- *"Mark this physics report and give me moderation comments."* → Mode C
+- *"Help me mark this physics report and give me moderation comments."* → Mode C
 - *"Design a 50-minute practical for 'gas exchange in plants' with what we have."* → Mode D
 - *"What do I need to submit for the moderation sample this session?"* → Mode E
 
