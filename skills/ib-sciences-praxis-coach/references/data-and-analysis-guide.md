@@ -59,3 +59,20 @@ Any statistical test needs a null and alternative hypothesis stated in the repor
 - Processing limited to means/indices with no uncertainty treatment → strand 3 capped at 3.
 - Inconsistent decimal places across raw and processed data → precision strand capped.
 - Conversely: consistent conventions + uncertainties in headings + appropriate processing + justified test choice are what the 5–6 band looks for.
+
+## Assessment mechanics (mined from the Chemistry & Physics TSMs — shared)
+
+**Awarding marks:**
+- Zero is rare: an incomplete report with no evidence at all for a criterion gets zero; partial evidence gets zero only if incomprehensible or totally irrelevant. A single zero-scoring strand should not be over-penalized — award the mark the other strands justify.
+- Effective communication is not a separate criterion — it is embedded in all four (methodology/context in Research design; clear-precise-accurate recording in Data analysis; justified answers in Conclusion; expressed evaluation in Evaluation).
+
+**Report structure and style:**
+- No cover page or table of contents (distractions); a clear, informative title reflecting the RQ, plus a first paragraph that orients the reader.
+- Methods may be prose or recipe style; passive or personal voice both fine; spelling/grammar errors are ignored unless they create ambiguity or incomprehensibility (many students write in a non-preferred language).
+- Structure, scientific relevance and conciseness matter more than language.
+
+**Word count:** maximum 3,000 words; excludes data tables, sketches, graphs, headings, references/bibliographies. Where a lot of data was collected, include only a sample (at regular intervals covering the IV range); the teacher has seen the full raw data and notes this on the work (full raw data is no longer required as an appendix). Examiners are not compelled to read beyond the limit.
+
+**Citations:** no citation needed for broadly accepted facts/theory (e.g. Newton's second law; rate increases with temperature) — but a specific fact or value needs one (e.g. a quoted activation energy, a friction coefficient). Style is the student's choice but must be consistent and traceable (URL + retrieval date for online sources).
+
+**Appendices:** not read by examiners. The only permissible appendices are consent forms for human-participant data collection.
