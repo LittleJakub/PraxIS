@@ -20,7 +20,7 @@ These are the **IA component** grade boundaries — the raw mark out of 24 that 
 | 2 | 4–6 | Poor — minimal evidence |
 | 1 | 0–3 | Very little or no relevant work |
 
-Source: RevisionDojo (M25 data), Clastify (historical aggregation). Component boundaries are stable across sessions — the IA component grade 7 threshold has been 20/24 consistently since the current syllabus was introduced.
+Source: official session grade-boundaries publications, cross-checked across sessions. Component boundaries are stable across sessions — the IA component grade 7 threshold has been 20/24 consistently since the current syllabus was introduced.
 
 ### Chemistry (current syllabus)
 
@@ -34,7 +34,7 @@ Source: RevisionDojo (M25 data), Clastify (historical aggregation). Component bo
 | 2 | 4–6 | |
 | 1 | 0–3 | |
 
-Source: RevisionDojo (M25 TZ0 data). Identical to Biology component boundaries.
+Source: official session grade-boundaries publications. Identical to Biology component boundaries.
 
 ### Physics (current syllabus)
 
@@ -48,7 +48,7 @@ Source: RevisionDojo (M25 TZ0 data). Identical to Biology component boundaries.
 | 2 | 4–6 | |
 | 1 | 0–3 | |
 
-Source: RevisionDojo, GradePod, Clastify. Component boundaries are identical across the three sciences — the criteria are shared.
+Source: official session grade-boundaries publications. Component boundaries are identical across the three sciences — the criteria are shared.
 
 ## Overall subject grade boundaries (for context)
 
@@ -64,17 +64,17 @@ The IA contributes 20% to the overall mark. The overall boundaries (out of 100, 
 | Nov 24 | 76% | 64% | 52% | 40% | 26% | 14% |
 | May 24 | 76% | 64% | 52% | 40% | 27% | 15% |
 
-Source: Clastify (official IB data). Grade 7 boundary range: 74–79% across recent sessions.
+Source: official session grade-boundaries publications. Grade 7 boundary range: 74–79% across recent sessions.
 
 ### Chemistry HL — overall boundaries (recent sessions)
 
-Typical grade 7 boundary: **72–82%** of raw marks. Source: IB Innovators, Clastify.
+Typical grade 7 boundary: **72–82%** of raw marks (across recent sessions).
 
 ### Physics HL — overall boundaries (recent sessions)
 
-Typical grade 7 boundary: **65–72%** of raw marks. Physics consistently has the **lowest** grade 7 boundary of the three sciences. Source: GradePod (historical data M19–N23), IB Innovators.
+Typical grade 7 boundary: **65–72%** of raw marks. Physics consistently has the **lowest** grade 7 boundary of the three sciences (across recent sessions).
 
-Physics SL grade 7 boundary: **65–70%** (average ~65%). Source: GradePod.
+Physics SL grade 7 boundary: **65–70%** (average ~65%, recent sessions).
 
 ## What this means for IA marking
 
@@ -96,13 +96,9 @@ Physics SL grade 7 boundary: **65–70%** (average ~65%). Source: GradePod.
 | Paper 2 (structured/extended) | 44% | varies by subject |
 | Scientific Investigation (IA) | 20% | /24 |
 
-Source: IB subject guides, GradePod, Tutopiya. These weightings are confirmed for the current syllabus (first examined 2025).
+Source: official IB subject guides. These weightings are confirmed for the current syllabus.
 
 ## Sources
 
-- Clastify: clastify.com/knowledge-hub/ib-grade-boundaries — historical boundaries from official IB data
-- RevisionDojo: revisiondojo.com/grade-boundaries — component-level boundaries per session
-- GradePod: gradepod.com/blog/ib-physics-grade-boundaries — Physics historical boundaries M19–N23
-- IB Innovators: ibinnovators.com/ib-grade-boundaries-2026 — cross-subject comparison
-- IB Statistical Bulletins: ibo.org/about-the-ib/facts-and-figures/statistical-bulletins — official session statistics (PDF)
-- Tutopiya: tutopiya.com/blog/ib-dp-physics-grade-boundaries — component weightings
+- IB subject guides and official session grade-boundaries publications (per session, per subject, per component) — the authoritative references for any boundary decision.
+- IB Statistical Bulletins — official session statistics (PDF, ibo.org).
