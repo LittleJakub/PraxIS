@@ -21,13 +21,13 @@ You provide what you have or what you want to accomplish — **no database requi
 ### Hermes Agent
 
 ```bash
-hermes skills tap add <owner>/ib-sciences-praxis
+hermes skills tap add LittleJakub/ib-sciences-praxis
 ```
 
 Manual (same effect, no tap index): clone into the profile skills directory —
 
 ```bash
-git clone https://github.com/<owner>/ib-sciences-praxis.git "$LOCALAPPDATA/hermes/skills/ib-sciences-praxis"
+git clone https://github.com/LittleJakub/ib-sciences-praxis.git "$LOCALAPPDATA/hermes/skills/ib-sciences-praxis"
 ```
 
 (The repo is also a portable [Agent Plugins](https://agent-plugins.org/) package — `plugin.json` + `skills/` — so plugin-capable hosts can load the whole thing as one plugin.)
@@ -38,13 +38,13 @@ The suite is a standard Agent Skills repo (`SKILL.md` with frontmatter per [agen
 
 ```bash
 # OpenClaw / other standard hosts: clone into the skills directory
-git clone https://github.com/<owner>/ib-sciences-praxis.git <your-skills-dir>/ib-sciences-praxis
+git clone https://github.com/LittleJakub/ib-sciences-praxis.git <your-skills-dir>/ib-sciences-praxis
 
 # Or via the common standards-based installer
-npx skills add <owner>/ib-sciences-praxis
+npx skills add LittleJakub/ib-sciences-praxis
 
 # Or via GitHub CLI (v2.90+), with provenance
-gh skill install <owner>/ib-sciences-praxis --agent <host>
+gh skill install LittleJakub/ib-sciences-praxis --agent <host>
 ```
 
 If your host is not listed, check its current docs for where skills live (Claude Code, Codex, Gemini CLI, Cursor, OpenClaw, and others all read the standard `SKILL.md` format).

@@ -13,7 +13,7 @@ This repo is a **curriculum layer** for IB DP Sciences (Biology, Chemistry, Phys
 
 ```bash
 # 1) This suite (curriculum layer)
-hermes skills tap add <owner>/ib-sciences-praxis   # or: npx skills add <owner>/ib-sciences-praxis
+hermes skills tap add LittleJakub/ib-sciences-praxis   # or: npx skills add LittleJakub/ib-sciences-praxis
 
 # 2) The scientific-computing layer (upstream)
 npx skills add K-Dense-AI/scientific-agent-skills
