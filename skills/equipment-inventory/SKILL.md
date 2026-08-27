@@ -6,7 +6,7 @@ compatibility: Requires Python >=3.10. No external services.
 license: MIT
 metadata:
   version: "0.1.0"
-  skill-author: QAIS DP Biology teacher (via Hermes Agent)
+  skill-author: PraxIS contributors (via Hermes Agent)
 ---
 
 # Equipment Inventory
@@ -33,7 +33,7 @@ Don't use for: designing activities (use `ib-sciences-praxis-coach`), ordering c
 YAML with fixed top-level categories. Every item is a mapping with `count` (number, or `"stock"` for bulk chemicals) and optional `notes` (capacity, concentration, condition, supplier quirks).
 
 ```yaml
-lab: QAIS Biology Lab          # free text — the skill reads it back to the teacher
+lab: School Biology Lab          # free text — the skill reads it back to the teacher
 updated: 2026-08-27            # ISO date of last edit — checked on every load
 apparatus:                     # instruments, glassware, hardware
   colorimeter: {count: 8, notes: "10 mm cuvettes included"}

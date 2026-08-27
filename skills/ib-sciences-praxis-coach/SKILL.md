@@ -6,7 +6,7 @@ compatibility: Python >=3.10 for optional data processing. No external services.
 license: MIT
 metadata:
   version: "0.3.0"
-  skill-author: QAIS DP Science teacher (via Hermes Agent)
+  skill-author: PraxIS contributors (via Hermes Agent)
 ---
 
 # IB Sciences PraxIS
