@@ -1,6 +1,6 @@
 ---
 name: equipment-inventory
-description: Maintain a YAML lab inventory file for IB DP Biology skills.
+description: Maintain a YAML lab inventory file for the IB DP Sciences (Biology, Chemistry, Physics).
 allowed-tools: Read Write Edit Bash
 compatibility: Requires Python >=3.10. No external services.
 license: MIT
