@@ -1,6 +1,6 @@
 # PraxIS — IB Sciences Practical & IA Suite
 
-Curriculum-layer [Agent Skills](https://agentskills.io/) for the IB DP Group 4 sciences — **Biology, Chemistry, and Physics** — built from the official IB sciences guides, teacher support material, sciences experimentation guidelines, the official assessed samples, and a large corpus of real graded IAs used for marking calibration.
+Curriculum-layer [Agent Skills](https://agentskills.io/) for the IB DP Group 4 sciences — **Biology, Chemistry, and Physics** — built from the official IB sciences guides, teacher support material, sciences experimentation guidelines, the official assessed samples, and a large corpus of real graded IAs used for calibration.
 
 > **Status: in development** (v0.3.0). Skills are drafted and being tested live. Not yet published.
 
@@ -59,11 +59,11 @@ Ask your agent, for example:
 
 - *"My student wants to investigate enzymes for their Biology IA. Help me guide their design — SL, 10 hours, we have colorimeters and water baths."* → Mode A
 - *"Here is my chemistry student's draft — review it against the criteria."* → Mode B
-- *"Help me mark this physics report and give me moderation comments."* → Mode C
+- *"Help me with the marking of this physics report — moderation comments please."* → Mode C
 - *"Design a 50-minute practical for 'gas exchange in plants' with what we have."* → Mode D
 - *"What do I need to submit for the moderation sample this session?"* → Mode E
 
-The skill encodes the criteria, marking methodology, data rules, safety/ethics, subject conventions, and examiner patterns from the official samples plus real-IAs calibration — all distilled into `references/` in the author's own words.
+The skill encodes the criteria, assessment methodology, data rules, safety/ethics, subject conventions, and examiner patterns from the official samples plus real-IAs calibration — all distilled into `references/` in the author's own words.
 
 ## What's deliberately NOT here
 
