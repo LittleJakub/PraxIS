@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ib-dp-sciences-ia-skills",
+  "version": "0.2.0",
+  "description": "IB DP Sciences IA coaching (design, review, mark) and lesson practical design — Biology, Chemistry, Physics.",
+  "author": {
+    "name": "QAIS DP Science Teacher",
+    "url": ""
+  },
+  "homepage": "https://github.com/<owner>/ib-dp-sciences-ia-skills",
+  "repository": "https://github.com/<owner>/ib-dp-sciences-ia-skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "ib",
+    "dp-sciences",
+    "education",
+    "curriculum",
+    "biology",
+    "chemistry",
+    "physics",
+    "internal-assessment",
+    "lab",
+    "teaching"
+  ]
+}

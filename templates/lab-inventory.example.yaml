@@ -1,0 +1,69 @@
+# Example school biology lab inventory
+# Copy to ~/lab-inventory.yaml (or the path in $IB_LAB_INVENTORY) and edit.
+# See the equipment-inventory skill for format rules.
+
+lab: Example High School Biology Lab
+updated: 2026-08-27
+
+apparatus:
+  colorimeter:      {count: 8,  notes: "10 mm cuvettes included"}
+  water_bath:       {count: 4,  notes: "30–80 °C, ±0.5 °C"}
+  hot_plate:        {count: 6}
+  incubator:        {count: 1,  notes: "25–60 °C"}
+  balance:          {count: 2,  notes: "0.01 g"}
+  thermometer:      {count: 30, notes: "0–100 °C, ±0.5 °C"}
+  ruler_30cm:       {count: 30}
+  microscope:       {count: 12, notes: "400× max"}
+  centrifuge:       {count: 1,  notes: "school model, 4×50 mL"}
+  glass_beaker:     {count: 60, notes: "mostly 250 mL"}
+  measuring_cylinder: {count: 30, notes: "100 mL and 10 mL"}
+  dropping_pipette: {count: 60}
+
+sensors:
+  datalogger:       {count: 6,  notes: "Vernier LabQuest 2"}
+  light_sensor:     {count: 6}
+  ph_sensor:        {count: 6}
+  temperature_sensor: {count: 12}
+  heart_rate_monitor: {count: 8, notes: "chest strap + finger clip"}
+
+chemicals:
+  hydrogen_peroxide: {count: "stock 2 L", notes: "3% v/v, refrigerated"}
+  catalase_extract:  {count: "stock 1 L", notes: "potato homogenate, made fresh"}
+  hydrochloric_acid: {count: "stock 500 mL", notes: "0.1 M, dilute"}
+  sodium_hydroxide:  {count: "stock 500 mL", notes: "0.1 M"}
+  starch_solution:   {count: "stock 1 L", notes: "1% w/v"}
+  amylase:           {count: "stock 250 mL", notes: "1% w/v"}
+  iodine_solution:   {count: "stock 250 mL", notes: "Lugol's"}
+  dcpip:             {count: "stock 100 mL", notes: "0.1% w/v, light-sensitive"}
+  yeast_suspension:  {count: "made fresh", notes: "for respiration practicals"}
+  methylene_blue:    {count: "stock 100 mL", notes: "0.01% w/v"}
+
+consumables:
+  disposable_pipette: {count: 200}
+  cuvette_10mm:       {count: 100}
+  paper_towel:        {count: "stock"}
+  rubber_band:        {count: 100}
+  aluminium_foil:     {count: "stock"}
+  ice:                {count: "on demand", notes: "from kitchen"}
+
+glassware:
+  test_tube:        {count: 200}
+  boiling_tube:     {count: 100}
+  conical_flask:    {count: 30, notes: "100 mL and 250 mL"}
+  petri_dish:       {count: 100}
+  syringe_10ml:     {count: 20, notes: "no needle"}
+
+software:
+  excel:            {notes: "classroom standard"}
+  logger_pro:       {notes: "Vernier, on lab PCs"}
+  google_sheets:    {notes: "student BYOD fallback"}
+
+safety:
+  goggles:          {count: 30}
+  lab_coat:         {count: 30}
+  gloves_nitrile:   {count: "stock 2 boxes"}
+  eyewash_station:  {count: 1}
+  fire_blanket:     {count: 1}
+  fume_hood:        {count: 1, notes: "shared with chemistry"}
+
+## items: 37
