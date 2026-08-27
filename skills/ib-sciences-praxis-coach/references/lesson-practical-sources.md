@@ -15,6 +15,8 @@ Curated from the official TSM bibliography and guidance — reliable starting po
 | Virtual Biology Lab (virtualbiologylab.org) | Simulations: Endler's guppies (selection), population-size estimation |
 | Exploratorium | STEM lessons, e.g. agar cell diffusion (cell size and diffusion) |
 | CLEAPSS (science.cleapss.org.uk) | Safety guidance and technician support for school practicals (UK) |
+| Biology for Life (biologyforlife.com) | Comprehensive IB Biology resource: IA guidance (research design, analysis, conclusion, evaluation), statistics tutorials (t-test, ANOVA, chi-squared, Kruskal-Wallis), measurement uncertainties, graphing, experimental techniques. Excellent for student-facing explanations and teacher checklists |
+| IB Biosone (sites.google.com/view/ibbioson) | IB Biology statistics guide: errors/uncertainties, statistical analysis methods, data processing. Includes a downloadable statistics booklet |
 
 ## Databases & data sources suitable for IA-style investigations
 
