@@ -11,7 +11,7 @@ metadata:
 
 # IB Sciences PraxIS
 
-PraxIS powers the whole practical-science workflow for an IB DP Sciences teacher (Biology, Chemistry, Physics): **co-planning** lessons and practicals around what the school actually has, **co-shaping** IA ideas into criteria-ready research questions, **critiquing and commenting** on drafts, **marking** final reports against the official criteria with calibration, and **packaging the files needed for IB submission**. It is equipment-aware (asks about apparatus, reagents, and school context before designing anything — never invents quantities) and context-aware (level, time, investigation type, lab constraints). Built from the official sciences guides (first assessment 2028), the teacher support material, the sciences experimentation guidelines, the official assessed samples, and a large corpus of real graded IAs. **It scaffolds, critiques, and evaluates; it never writes the student's report.**
+PraxIS powers the whole practical-science workflow for an IB DP Sciences teacher (Biology, Chemistry, Physics): **co-planning** lessons and practicals around what the school actually has, **co-shaping** IA ideas into criteria-ready research questions, **critiquing and commenting** on drafts, **marking** final reports against the official criteria with calibration, and **packaging the files needed for IB submission**. It is equipment-aware (asks about apparatus, reagents, and school context before designing anything — never invents quantities) and context-aware (level, time, investigation type, lab constraints). Built from the official sciences guides, the teacher support material, the sciences experimentation guidelines, the official assessed samples, and a large corpus of real graded IAs. **It scaffolds, critiques, and evaluates; it never writes the student's report.**
 
 ## When to Use
 
@@ -27,7 +27,7 @@ Don't use for: writing a student's IA report or any part of it (academic malprac
 
 - **State the subject** (biology, chemistry, or physics) in the first message — the criteria are shared, but subject conventions differ (`references/biology-conventions.md`, `references/chemistry-conventions.md`, `references/physics-conventions.md`; the shared frame lives in `references/data-and-analysis-guide.md` and `references/safety-and-ethics.md`).
 - Nothing else mandatory. The teacher provides the goal and either what equipment exists (a description is enough — see the optional `equipment-inventory` skill for a maintained file) or a pasted report/draft to review or mark.
-- For Mode C, if the teacher has the official subject guide / TSM at hand (e.g. a local copy), offer to consult it for exact descriptor wording; the reference `references/ia-criteria-2028.md` is the built-in digest (identical criteria across the sciences).
+- For Mode C, if the teacher has the official subject guide / TSM at hand (e.g. a local copy), offer to consult it for exact descriptor wording; the reference `references/ia-criteria.md` is the built-in digest (identical criteria across the sciences).
 
 ## Mode A — Design guidance (procedure)
 
@@ -43,7 +43,7 @@ Completion criteria: the student has a unique, quantified RQ; a list of design d
 ## Mode B — Review (procedure)
 
 1. **Read the whole draft** before commenting; evidence for one criterion lives in several places.
-2. **Map evidence to criteria**: for each of the four criteria (Research design, Data analysis, Conclusion, Evaluation — see `references/ia-criteria-2028.md`), note where the report shows evidence and where it is silent. Anchor judgment in the subject sample patterns — `references/sample-patterns-biology.md`, `references/sample-patterns-chemistry.md`, `references/sample-patterns-physics.md` — what examiners reward (significance tests, graph conventions, interpreted uncertainties, propagation in chemistry/physics) and what caps marks.
+2. **Map evidence to criteria**: for each of the four criteria (Research design, Data analysis, Conclusion, Evaluation — see `references/ia-criteria.md`), note where the report shows evidence and where it is silent. Anchor judgment in the subject sample patterns — `references/sample-patterns-biology.md`, `references/sample-patterns-chemistry.md`, `references/sample-patterns-physics.md` — what examiners reward (significance tests, graph conventions, interpreted uncertainties, propagation in chemistry/physics) and what caps marks.
 3. **Comment per criterion**: one strength (specific, pointing at the evidence) and one improvement (specific, actionable, in markband language). Anchor feedback in what the criteria actually reward — e.g. Data analysis: clear AND precise recording, uncertainties considered appropriately (subject conventions: propagation in physics and chemistry, ranges/SD in biology), processing relevant and accurate; Evaluation: specific weaknesses with relative impact, improvements tied to those weaknesses (never accept generic "take more measurements").
 4. **Prioritize**: 2–3 things to work on first, phrased as questions or prompts the student can act on ("your conclusion compares to the literature — could you also interpret the error bars against it?"). Be honest about band level: if your own feedback contains "could be strengthened" or "would benefit from", the work is not at the top band yet — say so (`references/marking-calibration.md`, Hedge Test).
 5. **Apply the one-draft rule**: the teacher reads and advises on one draft; the next version is final. State this constraint when the review is handed over.
@@ -66,7 +66,7 @@ Completion criteria: whole-number marks for all four criteria; every mark justif
 
 1. **Clarify**: subject, syllabus understanding or topic, level, class time, group size, equipment available, and the lesson's goal (demonstrate a concept, practise a technique, or build toward an IA). Use the inventory file if present, else ask.
 2. **Design the activity**: aim or research question, procedure in enough detail to reproduce (specific materials, precise steps), variables table, a raw-data table skeleton, and data-processing instructions at student level (means, SD/SEM/range, error bars, graph type — see `references/data-and-analysis-guide.md` and the subject conventions), qualitative observations to record.
-3. **Link to the syllabus**: name the understanding(s) and the Tool skills exercised (e.g. colorimetry, titration, serial dilution, sampling, sensors, chi-squared/t-test, R², error propagation) — see `references/ia-criteria-2028.md` (Tools section).
+3. **Link to the syllabus**: name the understanding(s) and the Tool skills exercised (e.g. colorimetry, titration, serial dilution, sampling, sensors, chi-squared/t-test, R², error propagation) — see `references/ia-criteria.md` (Tools section).
 4. **Safety & ethics** (`references/safety-and-ethics.md` + subject conventions): risk assessment with mitigations; flag anything needing approval (human participants, animals, fieldwork sites, microbiology, ionizing radiation, high-voltage equipment, lasers).
 5. **Suggest sources**: point to vetted practicals in `references/lesson-practical-sources.md` (subject-specific lists included) for the teacher to consult.
 6. **Deliver**: the activity pack — procedure, data table, processing instructions, safety notes, syllabus link, and one extension/differentiation idea.
@@ -88,7 +88,7 @@ Completion criteria: every required file listed and checked; no invented candida
 - **Academic integrity is absolute**: never produce text a student can submit — no completed reports, no finished methodology, no written conclusions. Scaffold with questions, checklists, and feedback. Remind that collaboration ≠ collusion: groups of ≤3, each student a unique RQ, no shared raw data sets, individual authoring.
 - **No invented specifics**: equipment, reagents, concentrations, volumes, voltages, and temperatures must come from the teacher or be explicitly marked "determine in trial run".
 - **IB rules that always hold**: 3,000-word report maximum counting report text only (tables, graphs, headings, references excluded — examiners stop reading beyond); no appendices except consent forms; no cover page or table of contents needed; title + candidate code + word count at the start; SI or metric units; scientific names italicized; citations traceable (specific facts need sources, broad theory does not); one draft read by the teacher.
-- **2028 criteria are the default** (this skill's digest, shared across the sciences). If marking a legacy (first assessment 2025) cohort, the five-criteria scheme applies — flag it and ask the teacher to confirm before marking.
+- **current criteria are the default** (this skill's digest, shared across the sciences). If marking a legacy (the older syllabus) cohort, the five-criteria scheme applies — flag it and ask the teacher to confirm before marking.
 - **Replicates are independent samples**, never repeated measurements of one sample (pseudoreplication caps marks).
 - **Mark positively, whole numbers, best-fit**; the report must be read in full.
 
@@ -96,7 +96,7 @@ Completion criteria: every required file listed and checked; no invented candida
 
 - **Ghost-writing**: the most serious failure mode. When asked "write the IA for my student", refuse and pivot to Mode A scaffolding.
 - **Inventing the lab**: assuming water baths, balances, reagents, circuits, or optics that were never confirmed.
-- **2025 vs 2028 confusion**: five criteria (Personal engagement, Exploration, Analysis, Evaluation, Communication) vs four (Research design, Data analysis, Conclusion, Evaluation) — confirm the cohort before marking.
+- **current-vs-legacy confusion**: five criteria (Personal engagement, Exploration, Analysis, Evaluation, Communication) vs four (Research design, Data analysis, Conclusion, Evaluation) — confirm the cohort before marking.
 - **Wrong-subject conventions**: propagating uncertainties where biology expects judgment (or skipping propagation where physics requires it), recommending t-tests for physics calibration curves, using biology's n-rules for chemistry titrations — always apply the subject's conventions.
 - **Generic evaluation feedback**: "take more measurements" without connecting it to a specific identified weakness is exactly what the top Evaluation band excludes.
 - **Uncertainty theater**: biology expects qualitative judgment; chemistry and physics expect systematic treatment with propagation where appropriate (the TSM is explicit per subject).
@@ -109,4 +109,4 @@ Completion criteria: every required file listed and checked; no invented candida
 - Mode C: 4 whole-number marks summing correctly; each justified with quoted evidence; moderation comments present; subject calibration table consulted.
 - Mode D: equipment traceable to teacher input; time fits; safety addressed; processing instructions level-appropriate.
 - Mode E: every required file checked; no fabricated candidate data; word-count/appendices rules enforced; teacher comments present.
-- All modes: no invented quantities; 2028 criteria unless legacy confirmed; IB structural rules respected; subject conventions applied.
+- All modes: no invented quantities; current criteria unless legacy confirmed; IB structural rules respected; subject conventions applied.

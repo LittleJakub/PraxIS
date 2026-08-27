@@ -1,6 +1,6 @@
 # PraxIS — IB Sciences Practical & IA Suite
 
-Curriculum-layer [Agent Skills](https://agentskills.io/) for the IB DP Group 4 sciences — **Biology, Chemistry, and Physics** — built from the official IB sciences guides (first assessment 2028), teacher support material, sciences experimentation guidelines, the official assessed samples, and a large corpus of real graded IAs used for marking calibration.
+Curriculum-layer [Agent Skills](https://agentskills.io/) for the IB DP Group 4 sciences — **Biology, Chemistry, and Physics** — built from the official IB sciences guides, teacher support material, sciences experimentation guidelines, the official assessed samples, and a large corpus of real graded IAs used for marking calibration.
 
 > **Status: in development** (v0.3.0). Skills are drafted and being tested live. Not yet published.
 
@@ -10,7 +10,7 @@ Curriculum-layer [Agent Skills](https://agentskills.io/) for the IB DP Group 4 s
 
 - **Design guidance** — co-shape a student's IA idea into a unique, quantifiable research question and a feasible, criteria-ready methodology (scaffolding, never ghost-writing)
 - **Review** — criterion-referenced critique and comments on a student's plan or draft
-- **Mark** — mark a final report against the official 2028 criteria with evidence-based justification, calibrated against 800+ real graded IAs (596 with full four-criteria scores: 220 Biology, 199 Chemistry, 177 Physics)
+- **Mark** — mark a final report against the official current criteria with evidence-based justification, calibrated against 800+ real graded IAs (596 with full four-criteria scores: 220 Biology, 199 Chemistry, 177 Physics)
 - **Lesson practical design** — plan practicals and activities for lessons from a topic and the equipment the school actually has
 - **Submission pack** — the completeness checks and files needed for IB submission (word count, appendices rule, cover-sheet fields, teacher's per-criterion comments, moderation-sample advice)
 

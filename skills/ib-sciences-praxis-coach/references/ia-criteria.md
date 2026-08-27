@@ -1,4 +1,4 @@
-# IA Criteria Digest — IB DP Sciences (first assessment 2028)
+# IA Criteria Digest — IB DP Sciences 
 
 Teacher-authored digest in our own words, distilled from the official Biology guide and TSM — **the four-criteria IA model is identical across Biology, Chemistry, and Physics** (Research design / Data analysis / Conclusion / Evaluation, 6 marks each, 24 total; the Chemistry and Physics guides carry the same descriptors). Facts and structure; paraphrase, not reproduction. **The official guide remains the authority for exact descriptor wording** — when marking, cross-check against the teacher's copy if available.
 
@@ -65,6 +65,6 @@ AO1: state. AO2: identify, outline, describe. AO3: explain, justify. Higher band
 - **Tool 3 — Mathematics**: mean/median/mode; range, SD, SE, IQR; rates of change; percentage change/difference; chi-squared, t-test, Simpson reciprocal index, Lincoln index; uncertainties recorded as ranges (±); error bars from ranges/SD/SE; R² for trend-line fit; correlation coefficient r.
 - **Inquiry process**: exploring & designing → collecting & processing data → concluding & evaluating.
 
-## Legacy note — first assessment 2025 (older cohorts)
+## Legacy note — the older syllabus (older cohorts)
 
-The 2025 scheme had **five** criteria: Personal engagement (2), Exploration (6), Analysis (6), Evaluation (6), Communication (4) — total 24. Personal engagement rewarded the student's interest/initiative; Exploration covered design (RQ, variables, methodology, safety); Analysis covered data processing and presentation; Evaluation covered conclusion + evaluation (combined); Communication covered structure and clarity. Confirm the cohort before marking; the 2028 four-criterion scheme is this skill's default.
+The older-syllabus scheme had **five** criteria: Personal engagement (2), Exploration (6), Analysis (6), Evaluation (6), Communication (4) — total 24. Personal engagement rewarded the student's interest/initiative; Exploration covered design (RQ, variables, methodology, safety); Analysis covered data processing and presentation; Evaluation covered conclusion + evaluation (combined); Communication covered structure and clarity. Confirm the cohort before marking; the current four-criterion scheme is this skill's default.

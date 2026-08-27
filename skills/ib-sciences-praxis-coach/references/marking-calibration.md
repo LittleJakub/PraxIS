@@ -44,9 +44,9 @@ The moderator's comments rewarded exactly what the official samples reward: unit
 - Keep a moderation history: after each session, compare your marks to the moderated marks and tally the gap per criterion — the pattern (e.g. "I always over-credit Conclusion") becomes visible and fixable.
 - When in doubt between two bands, **choose the lower band** — the case study's errors were all in the generous direction, and moderation only ever moved marks down.
 
-## Session context — first new-syllabus session (May 2025), from the official subject report
+## Session context — the first session under the current syllabus, from the official subject report
 
-The examiner feedback for the first session under the four-criteria scheme (paraphrased from the May 2025 Biology subject report) explains why moderation ran strict:
+The examiner feedback for the first session under the four-criteria scheme (paraphrased from the first-session Biology subject report) explains why moderation ran strict:
 
 - **"Standard" experiments dominated** — enzyme activity, osmosis, seed germination, photosynthesis. Ecology, database, and simulation approaches were notably rare. With Personal Engagement gone as a criterion, many students reverted to basic foundational investigations — which the report notes **limits the justification students can offer in Research design** and **limits the Conclusion's comparison to accepted scientific context**. Innovation and creativity are still expected.
 - **Protocol slips persisted** (e.g. incubating bacteria at temperatures meant for pathogens; not stating that cultures were non-pathogenic and sourced). These cost marks in Research design's safety/ethics strand.
@@ -54,22 +54,22 @@ The examiner feedback for the first session under the four-criteria scheme (para
 - **Data-based IAs' greatest weakness was variable choice**: broad non-biological metrics such as the Human Development Index produce data that is hard to analyse well. Variables need to be specific and biological.
 - **Evaluations of data-based investigations were poor** — the reliability of the data was rarely evaluated.
 - **Many teachers did not include detailed comments supporting their own marking** — and the moderator explicitly calls these comments valuable. (This is a direct, actionable fix: write criterion-referenced comments on every report you mark; it protects both your students and your moderation.)
-- May 2025 IA grade boundaries (HL and SL): 7 = 20–24, 6 = 17–19, 5 = 14–16, 4 = 11–13, 3 = 7–10.
+- Current IA grade boundaries (HL and SL): 7 = 20–24, 6 = 17–19, 5 = 14–16, 4 = 11–13, 3 = 7–10.
 
-**Anecdotal corroboration from student-reported moderation outcomes (first new-syllabus sessions):** multiple independent reports across schools describe the same pattern as the case study — teacher marks of 19–23 moderated down to 14–15; a teacher-predicted 6 dropping to an IB component 3; schools that "never see drops" getting hit; one school capping internal raw marks at 19 for moderation safety; a confirmed May 2026 HL Biology IA at 21/24 (yeast fermentation vs temperature). Treat these as directional (self-reported, unverified), but they align with the case study and the subject report: first-session moderation ran strict, and internal marking ran generous.
+**Anecdotal corroboration from student-reported moderation outcomes (first new-syllabus sessions):** multiple independent reports across schools describe the same pattern as the case study — teacher marks of 19–23 moderated down to 14–15; a teacher-predicted 6 dropping to an IB component 3; schools that "never see drops" getting hit; one school capping internal raw marks at 19 for moderation safety; a confirmed 21/24 HL Biology IA (yeast fermentation vs temperature). Treat these as directional (self-reported, unverified), but they align with the case study and the subject report: first-session moderation ran strict, and internal marking ran generous.
 
 *Provenance note:* the criterion profiles in the tables below aggregate a corpus of real student IAs with confirmed component grades collected from teacher-accessible sources, cross-checked against the official assessed samples. Corpus scores are internally consistent (criterion sums match reported totals) but are indicative, not official — the official grade boundaries remain authoritative.
 
 Implication for marking: a "safe standard" investigation (enzyme/osmosis/germination) with good execution is a solid 4–5; reaching 6 in Research design or Conclusion in this session required genuine depth of justification and scientific context — the thing the report says standard experiments limit.
 
-## Where to find more graded samples (May 2025+ only)
+## Where to find more graded samples (current-syllabus only)
 
-Anything pre-May 2025 used the old criteria (5 criteria, or the older 6–12 page report) — not directly comparable. For the new scheme:
+Anything before the current syllabus used the old criteria (5 criteria, or the older 6–12 page report) — not directly comparable. For the new scheme:
 
-- **My IB / Programme Resource Centre (school access)** — the authoritative source: official assessed student work and the subject reports for each session (M25, N25, M26). This is where the newest official samples live.
+- **My IB / Programme Resource Centre (school access)** — the authoritative source: official assessed student work and the subject reports for each session. This is where the newest official samples live.
 - **Official publications and teacher networks** — the guides, TSMs, and assessed-work collections circulate through official channels; colleagues who mark for the IB are a legitimate calibration resource. Always prefer officially published material for anything you share or publish.
 
-### What a 6/6 actually looks like (patterns from 2025-rubric exemplars)
+### What a 6/6 actually looks like (patterns from current-rubric exemplars)
 
 - **Research design 6/6**: IV and DV named in the RQ; IV range chosen to span the expected relationship (e.g. pH levels straddling the optimum so the conclusion can discuss shape); controls listed **with tolerances**; the statistical test justified *before* data collection. Capped at 5/6 when the hypothesis wasn't fixed before accessing data, or when the biological rationale is thin.
 - **Data analysis 6/6**: ≥5–6 replicates per level with individual values, means, SD; worked calculation shown; model fit reported (R²); error bars drawn with ±SE (correctly, for mean comparisons).
@@ -77,7 +77,7 @@ Anything pre-May 2025 used the old criteria (5 criteria, or the older 6–12 pag
 - **Evaluation 6/6**: weaknesses **ranked by impact** (largest → smallest); random vs systematic errors separated; improvements are specific and equipment-level ("replace beaker with a thermostatically controlled chamber", not "use better equipment"); extensions test the mechanism (e.g. KCl at matched osmotic potential to separate ion-specific from osmotic effects).
 - **Evaluation 3/6** (the shape of over-marked work): generic weaknesses ("human error") with no impact analysis; improvements like "do more trials" with no specific change; no random/systematic distinction; a clear confound missed (e.g. caffeine habituation). If a report's evaluation looks like this, it is not a 5.
 
-### Real criterion profiles (aggregated from a 2025-rubric exemplar library)
+### Real criterion profiles (aggregated from a current-rubric exemplar library)
 
 Per-criterion scores of actual student IAs (topics anonymized to type), sorted by achieved level. Use as calibration anchors: a report's criterion profile should look like one of these rows, or the mark is wrong.
 
@@ -106,7 +106,7 @@ Patterns worth internalizing:
 
 ### The merged calibration dataset (800+ real student IAs)
 
-All sources combined: a collected corpus of real student IAs with confirmed component grades — session-tagged exemplars from the May 2025, November 2025, and May 2026 sessions (206 IAs: 91 Biology, 46 Chemistry, 69 Physics) plus a broader four-criteria corpus (**596 IAs: 220 Biology, 199 Chemistry, 177 Physics — complete A–D + totals**). The official Chemistry and Physics assessed samples (6 + 5 commentaries, both 24/24 exemplars) anchor the subject patterns. Aggregate per grade:
+All sources combined: a collected corpus of real student IAs with confirmed component grades — session-tagged exemplars from the first three current-syllabus sessions (206 IAs: 91 Biology, 46 Chemistry, 69 Physics) plus a broader four-criteria corpus (**596 IAs: 220 Biology, 199 Chemistry, 177 Physics — complete A–D + totals**). The official Chemistry and Physics assessed samples (6 + 5 commentaries, both 24/24 exemplars) anchor the subject patterns. Aggregate per grade:
 
 **A (Research design) and B (Data analysis) across 273 IAs:**
 

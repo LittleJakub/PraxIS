@@ -1,6 +1,6 @@
 # What the Examplars Teach — Patterns from the Official Assessed Samples
 
-Distilled in the author's own words from the official IB DP Biology assessed samples (2028 criteria) that ship with the teacher support material. Every claim below is a pattern observed in the examiner commentaries — the strongest available evidence for what moves marks. Use in Mode A (design scaffolding), Mode B (review comments), and Mode C (marking).
+Distilled in the author's own words from the official IB DP Biology assessed samples (current criteria) that ship with the teacher support material. Every claim below is a pattern observed in the examiner commentaries — the strongest available evidence for what moves marks. Use in Mode A (design scaffolding), Mode B (review comments), and Mode C (marking).
 
 **Subject note**: these are the official *Biology* samples. The same mark-moving patterns hold across the sciences (the criteria are shared). For the official **Chemistry** and **Physics** assessed samples (including both subjects' 24/24 exemplars), see `sample-patterns-chemistry.md` and `sample-patterns-physics.md`; band behaviour per subject is quantified in `marking-calibration.md`.
 
