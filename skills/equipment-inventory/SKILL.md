@@ -11,7 +11,7 @@ metadata:
 
 # Equipment Inventory
 
-Optional helper for the `ib-sciences-ia-coach` skill. Maintains the machine-readable list of laboratory equipment, sensors, chemicals, consumables, and software so the coach can design activities and IAs against what actually exists in the lab. The inventory is a **private** YAML file that lives outside the skills repository — it is never committed, never shared, and contains no student data.
+Optional helper for the `ib-sciences-praxis-coach` skill. Maintains the machine-readable list of laboratory equipment, sensors, chemicals, consumables, and software so the coach can design activities and IAs against what actually exists in the lab. The inventory is a **private** YAML file that lives outside the skills repository — it is never committed, never shared, and contains no student data.
 
 **The coach does not require this file.** The teacher can simply describe what they have ("we have 8 colorimeters, 4 water baths, Vernier dataloggers…") and the coach works from that description. This file is for teachers who want a maintained, versioned inventory the coach can read automatically.
 
@@ -19,10 +19,10 @@ Optional helper for the `ib-sciences-ia-coach` skill. Maintains the machine-read
 
 - Creating the inventory for the first time from a teacher's description of the lab
 - Adding, updating, or removing items after purchases, losses, or donations
-- Before running `ib-sciences-ia-coach` when a maintained inventory exists
+- Before running `ib-sciences-praxis-coach` when a maintained inventory exists
 - Answering "what investigations are feasible with what we have?" queries
 
-Don't use for: designing activities (use `ib-sciences-ia-coach`), ordering consumables (teacher/administrator task), or recording student data.
+Don't use for: designing activities (use `ib-sciences-praxis-coach`), ordering consumables (teacher/administrator task), or recording student data.
 
 ## Prerequisites
 

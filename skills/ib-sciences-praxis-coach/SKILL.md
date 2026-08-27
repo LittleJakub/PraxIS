@@ -1,17 +1,17 @@
 ---
-name: ib-sciences-ia-coach
-description: "Coach IB DP Sciences IAs: design, review, mark, practicals."
+name: ib-sciences-praxis-coach
+description: "PraxIS: IB DP Sciences practical & IA coach."
 allowed-tools: Read Write Edit Bash
 compatibility: Python >=3.10 for optional data processing. No external services. Works from the teacher's description of equipment and goals — no database required.
 license: MIT
 metadata:
-  version: "0.2.0"
+  version: "0.3.0"
   skill-author: QAIS DP Science teacher (via Hermes Agent)
 ---
 
-# IB Sciences IA Coach
+# IB Sciences PraxIS
 
-One skill that powers the whole IB DP Sciences scientific-investigation process for a teacher: guiding students to design their IA, reviewing drafts, marking final reports against the official criteria, and designing lesson practicals. Covers **Biology, Chemistry, and Physics** — the Group 4 sciences share the same IA model: four criteria (Research design, Data analysis, Conclusion, Evaluation), 24 marks. Built from the official sciences guides (first assessment 2028), the teacher support material, the sciences experimentation guidelines, the official assessed samples, and a large corpus of real graded IAs. **It scaffolds and evaluates; it never writes the student's report.**
+PraxIS powers the whole practical-science workflow for an IB DP Sciences teacher (Biology, Chemistry, Physics): **co-planning** lessons and practicals around what the school actually has, **co-shaping** IA ideas into criteria-ready research questions, **critiquing and commenting** on drafts, **marking** final reports against the official criteria with calibration, and **packaging the files needed for IB submission**. It is equipment-aware (asks about apparatus, reagents, and school context before designing anything — never invents quantities) and context-aware (level, time, investigation type, lab constraints). Built from the official sciences guides (first assessment 2028), the teacher support material, the sciences experimentation guidelines, the official assessed samples, and a large corpus of real graded IAs. **It scaffolds, critiques, and evaluates; it never writes the student's report.**
 
 ## When to Use
 
@@ -19,6 +19,7 @@ One skill that powers the whole IB DP Sciences scientific-investigation process 
 - **Mode B — Review**: the teacher shares a student's plan, draft, or partial report and wants criterion-referenced feedback. Triggers: "review this", "give feedback", "constructive comments", "what's missing".
 - **Mode C — Mark**: the teacher shares a finished report and wants it marked against the official criteria with justification. Triggers: "mark this", "what mark", "grade this IA", "moderation".
 - **Mode D — Lesson practical design**: the teacher wants a practical or activity for a lesson (not an IA). Triggers: "design a practical for", "activity for [topic]", "what can we do for [understanding]".
+- **Mode E — Submission pack**: the teacher wants the files and checks for IB submission of marked IAs. Triggers: "submission pack", "cover sheet", "what do I submit", "moderation upload".
 
 Don't use for: writing a student's IA report or any part of it (academic malpractice), analysing exam papers, or non-science subjects.
 
@@ -72,6 +73,16 @@ Completion criteria: whole-number marks for all four criteria; every mark justif
 
 Completion criteria: every piece of equipment traceable to what the teacher said exists; time budget fits the class period; safety and ethics addressed; data processing instructions correct at the level of the students.
 
+## Mode E — Submission pack (procedure)
+
+1. **Clarify what is needed**: which students' IAs, subject and level, session (May/November + year), the school's preferred filenames and cover-sheet fields, and whether the school submits via IBIS or another channel.
+2. **Run the completeness check per report**: title + candidate code + word count at the start; word count ≤ 3,000 (flag over-length — examiners stop reading); no appendices beyond consent forms (data/raw tables must be inside the report body); the marked criteria table present; teacher comments per criterion on file (the moderator explicitly values them).
+3. **Produce the submission checklist**: for each student — final PDF (report only), consent form if human participants, teacher's per-criterion comments, internal marks matching the moderation sample selection, filename per school convention, and the school's cover-sheet data (candidate code, session, subject, level, title).
+4. **Moderation sample advice** (if asked): explain the school's moderation sample rules per session; flag reports where the teacher's marks and the calibration tables diverge most as the ones to re-check first (see `references/marking-calibration.md`).
+5. **Deliver**: the pack as a checklist + any file the teacher asks for (e.g. a cover-sheet template, a per-criterion comments template). Never fabricate candidate codes, dates, or marks — those come from the teacher.
+
+Completion criteria: every required file listed and checked; no invented candidate data; word-count/appendices rules enforced; teacher comments ready; marks consistent with the calibration gates.
+
 ## Guardrails (all modes)
 
 - **Academic integrity is absolute**: never produce text a student can submit — no completed reports, no finished methodology, no written conclusions. Scaffold with questions, checklists, and feedback. Remind that collaboration ≠ collusion: groups of ≤3, each student a unique RQ, no shared raw data sets, individual authoring.
@@ -97,4 +108,5 @@ Completion criteria: every piece of equipment traceable to what the teacher said
 - Mode B: each criterion got a strength and a specific improvement; nothing edited; one-draft rule stated.
 - Mode C: 4 whole-number marks summing correctly; each justified with quoted evidence; moderation comments present; subject calibration table consulted.
 - Mode D: equipment traceable to teacher input; time fits; safety addressed; processing instructions level-appropriate.
+- Mode E: every required file checked; no fabricated candidate data; word-count/appendices rules enforced; teacher comments present.
 - All modes: no invented quantities; 2028 criteria unless legacy confirmed; IB structural rules respected; subject conventions applied.
