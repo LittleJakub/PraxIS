@@ -45,9 +45,9 @@ Author's own-words digest of the conventions that examiners expect in IB DP Phys
 
 **Data sufficiency:**
 - No single standard for "enough data" — it depends on the investigation and the 10 hours; repeat counts need a stated rationale.
-- Rough processing while collecting is strongly recommended — it reveals issues early and justifies adjusting the range/interval.
-- Insufficient data through no fault of the student: mean + range can still reach top marks when commensurate with the question, and the student's awareness that limited data limit the conclusion is credited. No good reason for more data → Data analysis is impacted.
-- The report should describe problems encountered during trials and how the student responded (adaptability is credited).
+- Doing rough processing as the data come in is strongly recommended — it reveals issues early and justifies adjusting the range/interval.
+- Insufficient data when the causes were outside the student's control: mean + range can still reach top marks when commensurate with the question, and the student's awareness that limited data limit the conclusion is credited. No good reason for more data → Data analysis is impacted.
+- The report should describe problems met during the trial runs and how they were handled (adaptability is credited).
 
 **Database and simulation IAs:**
 - Source identified, reliability established, sufficiency and relevance argued; screenshots with web addresses or program names mandatory; paywalled databases acceptable.

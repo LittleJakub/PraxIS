@@ -5,7 +5,7 @@ Author's own-words distillation of the examiner commentary from the official Che
 ## What the 24/24 looks like (electroplating with copper)
 
 - **RD**: theory used beyond what the course itself demands; *every* methodological step justified in terms of theory; range, control-variable method, and repetition count chosen to guarantee sufficient data.
-- **DA**: uncertainty methods in combination — propagation, line of best fit, comparison with theoretical values, R²; decimal-place conventions justified in advance; concordant values.
+- **DA**: uncertainty methods used together — propagation, a best-fit line, a check against known values, R²; decimal-place conventions justified in advance; concordant values.
 - **C**: uncertainties used to justify differences from expected values; systematic errors and their **directions** explained; scientific context woven through the whole investigation, not bolted on at the end.
 - **E**: weaknesses analysed for impact with solid explanations; **improvements introduced during the design stage receive credit**; improvements that are not feasible at school level identified as such (feasibility awareness is praised, not punished).
 
@@ -18,7 +18,7 @@ Author's own-words distillation of the examiner commentary from the official Che
 5. **Outliers: identify them and say why** — failing to identify outliers is a recurring criticism; identifying an outlier only inside the evaluation is too late (Chem 02).
 6. **Systematic error without a direction earns nothing extra** — chemistry conclusions repeatedly miss the direction of the systematic error.
 7. **Sloppy-handling claims get no credit** (Chem 01) — same rule as biology: "careless manipulation" is not a valid methodological weakness.
-8. **Weaknesses that should have been fixed at design time cap Evaluation** — Chem 04: the most relevant limitations should have been addressed during the design stage → E 3–4. The mirror of Chem 07's credit for design-stage improvements.
+8. **Weaknesses that should have been fixed at design time cap Evaluation** — Chem 04: the most relevant limitations should have been caught and fixed at the design stage → E 3–4. The mirror of Chem 07's credit for design-stage improvements.
 9. **Database IAs need data-sufficiency justification** — a design that collects too little data caps RD; sampling/selection choices must be conveyed, not just stated.
 10. **A simulation RQ whose "variables" cannot actually be manipulated caps RD hard** — Chem 03 (9/24, gas-behaviour simulation): the question named several independent variables, but two of them were fixed by the system (defined by the chosen compound and conditions), so treating them as manipulable was wrong as implemented — strand 2 fell to 1–2. In simulations, the RQ must be about variables the student genuinely varies or selects.
 11. **A wrong justification for ignoring uncertainties is worse than none** — Chem 03 dismissed uncertainties as negligible using ethanol at 300 K, which is not even a gas in those conditions; the examiner rejected the justification outright (DA 1–2). If uncertainties are negligible, the claim must survive scrutiny.

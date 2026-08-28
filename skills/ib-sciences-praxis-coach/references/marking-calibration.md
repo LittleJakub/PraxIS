@@ -50,15 +50,17 @@ The examiner feedback for the first session under the four-criteria scheme (para
 
 - **"Standard" experiments dominated** — enzyme activity, osmosis, seed germination, photosynthesis. Ecology, database, and simulation approaches were notably rare. With Personal Engagement gone as a criterion, many students reverted to basic foundational investigations — which the report notes **limits the justification students can offer in Research design** and **limits the Conclusion's comparison to accepted scientific context**. Innovation and creativity are still expected.
 - **Protocol slips persisted** (e.g. incubating bacteria at temperatures meant for pathogens; not stating that cultures were non-pathogenic and sourced). These cost marks in Research design's safety/ethics strand.
-- **Simulations were often too simplistic** — little investigator choice or data processing.
+- **Simulations were often too simplistic** — little scope for student choice or meaningful processing.
 - **Data-based IAs' greatest weakness was variable choice**: broad non-biological metrics such as the Human Development Index produce data that is hard to analyse well. Variables need to be specific and biological.
-- **Evaluations of data-based investigations were poor** — the reliability of the data was rarely evaluated.
-- **Many teachers did not include detailed comments supporting their own marking** — and the moderator explicitly calls these comments valuable. (This is a direct, actionable fix: write criterion-referenced comments on every report you mark; it protects both your students and your moderation.)
+- **The evaluation of data-based work was weak** — the reliability of the data was rarely assessed.
+- **Many teachers left out the per-criterion comments that back up their own marks** — and the moderator explicitly calls these comments valuable. (This is a direct, actionable fix: write criterion-referenced comments on every report you mark; it protects both your students and your moderation.)
 - **Official IA component grade boundaries** (from the session grade-boundaries publication; identical for Biology, Chemistry, and Physics, HL and SL, all timezones): 7 = 20–24, 6 = 17–19, 5 = 14–16, 4 = 11–13, 3 = 7–10, 2 = 4–6, 1 = 0–3. (Session overall subject boundaries are published per session and vary slightly by subject/timezone; the IA component table above has been uniform across the sciences.)
 
 **Anecdotal corroboration from student-reported moderation outcomes (first new-syllabus sessions):** multiple independent reports across schools describe the same pattern as the case study — teacher marks of 19–23 moderated down to 14–15; a teacher-predicted 6 dropping to an IB component 3; schools that "never see drops" getting hit; one school capping internal raw marks at 19 for moderation safety; a confirmed 21/24 HL Biology IA (yeast fermentation vs temperature). Treat these as directional (self-reported, unverified), but they align with the case study and the subject report: first-session moderation ran strict, and internal marking ran generous.
 
 *Provenance note:* the criterion profiles in the tables below aggregate a corpus of real student IAs with confirmed component grades collected from teacher-accessible sources, cross-checked against the official assessed samples. Corpus scores are internally consistent (criterion sums match reported totals) but are indicative, not official — the official grade boundaries remain authoritative.
+
+**Do not split calibration by level (HL/SL).** The corpus shows HL averaging roughly two marks higher than SL in every subject (Biology 15.5 vs 13.4, Chemistry 16.4 vs 14.9, Physics 17.9 vs 15.9), and the gap is spread across all four criteria. This is a cohort-strength effect (HL students are, on average, stronger students), not a different marking standard — the criteria, descriptors, and component boundaries are identical at both levels per the subject guides. Applying a level-adjusted mark would bake in a bias (marking an SL report down "because SL averages lower") and make the outcome *less* accurate, not more. Mark every report against the same descriptors regardless of level.
 
 Implication for marking: a "safe standard" investigation (enzyme/osmosis/germination) with good execution is a solid 4–5; reaching 6 in Research design or Conclusion in this session required genuine depth of justification and scientific context — the thing the report says standard experiments limit. Full examiner feedback across subjects and sessions (chemistry per-strand guidance, physics rounding laws and evaluation insight, biology hypothesis framing) lives in `references/session-subject-reports.md`.
 
@@ -175,11 +177,11 @@ Subject notes:
 
 **What the examiner commentary most often penalizes** (mined from 518 weakness notes across 48 IAs, ranked):
 
-1. **The relative impact of each methodological weakness is not explained** — the single most common gap (~1 in 5 reports). Listing weaknesses without ranking their impact on the results caps Evaluation at 3–4.
+1. **The effect of each method flaw on the final numbers is never ranked or explained** — the single most common gap (~1 in 5 reports). Listing weaknesses without ranking how each one shifted the results caps Evaluation at 3–4.
 2. **Conclusion does not compare to the accepted scientific context** — citing literature without a quantitative or explicit comparison caps Conclusion at 4.
 3. **Uncertainties listed but not propagated or used** — stated in the method, absent from the analysis and conclusion.
-4. **Conclusion overstates support for the claim** (over-claiming from correlational data).
-5. **Improvements described rather than fully explained** (tied to a specific weakness with implementation detail).
+4. **The conclusion claims more than the data can support** (over-claiming from correlational data).
+5. **Improvements named but never reasoned through** (tied to a specific weakness with implementation detail).
 6. Reproducibility nits that cost Research design: replicate counts unjustified, time/volume inconsistencies between the variables table and the procedure, calibration steps ambiguous, taxonomic typos.
 
 These mirror the official samples and the moderation case exactly — they are the dependable mark-loss points to check for in every report you grade.

@@ -8,13 +8,13 @@ Author's own-words digest of the conventions that examiners expect in IB DP Biol
 - **Express variation with the n-rules**: SD needs ≥5 independent repeats; t-test ≥10 per group; SEM ≥30 — below those numbers, express variation as a range (min–max), not as SD/SEM. A student who calculates SD on n=3 gets penalized, not rewarded.
 - **Error bars**: use ±SD (or ±SEM when n ≥ 30) and **say which one it is** — unlabelled error bars get the benefit of the doubt, but identification is the cheap mark.
 - **Percentage uncertainties are not required in biology** (unlike chemistry) — do not push students to over-engineer.
-- **Significant figures and decimal places**: consistent decimal places across a table is "what we accept in biology"; inconsistent sf/dp is a recurring precision criticism. Units in every column heading.
+- **Significant figures and decimal places**: consistent decimal places across a table is the accepted biology standard; inconsistent sf/dp is a recurring precision criticism. Units in every column heading.
 
 ## Data processing conventions
 
 - **Statistics menu by question type**: comparison of two conditions → t-test (n ≥ 10/group); more than two conditions or categories → ANOVA (with the RQ checked first — ANOVA on a correlation RQ is a classic error); association between two categorical variables → chi-squared; correlation → Pearson (linear) or Spearman (non-linear) with the coefficient tested against critical values at p = 0.05.
 - **A significance test is the single most reliable band-mover**: reports with a justified, correctly executed test consistently out-mark otherwise-identical reports without one. No test at all caps the processing strand at 2–3 — even a small-n test (e.g. Pearson on n=5) earns credit for attempting significance properly.
-- **Trends and fits**: line of best fit + R² for continuous data; do not fit regression lines just to maximize R² (that is explicitly "not the correct approach").
+- **Trends and fits**: best-fit line + R² for continuous data; do not fit regression lines just to maximize R² (that is explicitly the wrong approach).
 - **Outliers**: never remove systematically; use 1.5×IQR or a stated rule; present data with and without; justify any removal in the analysis, not only in the evaluation.
 - **Database and simulation IAs**: screenshots of the database/simulation in the body (not the appendix); explain the selection and sampling of data; use biological variables — broad socio-economic metrics (e.g. HDI) yield data that is hard to analyse well.
 

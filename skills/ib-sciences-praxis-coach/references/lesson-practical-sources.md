@@ -38,14 +38,14 @@ Curated from the official TSM bibliography and guidance — reliable starting po
 
 ## Classroom activities & lesson ideas (from the TSM)
 
-- **Asking questions worth answering**: questions not answerable by a search engine, not recycled practical reports, not in the textbook. Example prompts: "Why does the amylase inside seeds not digest starch before germination?" (answer: amylase inhibitors — Kneen & Sandstedt 1943); "We know heavy metals inhibit enzymes — what about other metal ions?"
+- **Asking questions worth answering**: questions not answerable by a search engine, not recycled practical reports, not in the textbook. Example prompts: "Why does the amylase inside seeds not digest starch before germination?" (answer: amylase inhibitors — Kneen & Sandstedt 1943); "Heavy metals are known to block enzymes — do other metal ions do the same?"
 - **Variable lotto**: jars of IVs, DVs, and methodologies; students draw one of each and design the experiment for next lesson (e.g. "effect of temperature on *Elodea* photosynthesis using bubble counting").
 - **Skills circus**: re-discover past practicals from their apparatus; or give students a results graph and have them set up the apparatus that produced it.
-- **Describe–explain–evaluate–predict**: for any results graph, students (1) suggest an explanation, (2) suggest an alternative explanation, (3) design an experiment to eliminate the alternative. Classic example: catalase activity vs temperature — alternative explanation: spontaneous H₂O₂ breakdown at high temperature; eliminate it with no-enzyme control tubes at each temperature.
-- **Mentor texts**: students read an official assessed sample (not a perfect one), mark up where they see criterion evidence, discuss the markband, then write their own 15-minute conclusion/evaluation. Best taught after students have collected their own data (e.g. a simple enzyme experiment).
+- **Describe–explain–evaluate–predict**: for any results graph, students (1) propose a reason for the pattern, (2) propose a rival reason, (3) design a test that rules the rival out. Classic example: catalase activity vs temperature — rival explanation: spontaneous H₂O₂ breakdown at high temperature; rule it out with no-enzyme control tubes at each temperature.
+- **Mentor texts**: students read an official assessed sample (not a perfect one), mark up where they see criterion evidence, discuss the markband, then write their own 15-minute conclusion/evaluation. Best taught once students already hold their own data (e.g. a simple enzyme experiment).
 - **Collecting stories**: real-world hooks from students' cultures (companion plants with mint; fruit ripening with rice; vitamin C in local fruits) as inspiration for RQs.
 
 ## Citation resources
 
-- IB Academic integrity policy and *Effective citing and referencing* (authoritative)
+- IB Academic integrity policy, plus the official citing-and-referencing guidance (authoritative)
 - Retrieve dates for online sources so citations are traceable; a consistent style of the student's choice is fine.
