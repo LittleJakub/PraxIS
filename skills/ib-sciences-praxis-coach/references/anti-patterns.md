@@ -1,6 +1,6 @@
 # Anti-Patterns — What Caps Marks (by Criterion)
 
-Comprehensive list of patterns that reliably cap IA marks, drawn from the official assessed samples, examiner reports, the moderation case study, and the 800+ corpus calibration. Use in Mode B (review — identifying what's holding a report back) and Mode C (marking — verifying that a mark isn't being over-credited).
+Comprehensive list of patterns that reliably cap IA marks, drawn from the official assessed samples, examiner reports, the moderation case study, and the 849-IAs corpus calibration. Use in Mode B (review — identifying what's holding a report back) and Mode C (marking — verifying that a mark isn't being over-credited).
 
 **The principle**: every anti-pattern below has been observed by examiners to cap a criterion at a specific band. If you see it, the mark belongs in the LOWER band — the Hedge Test applies.
 

@@ -10,7 +10,7 @@ Curriculum-layer [Agent Skills](https://agentskills.io/) for the IB DP Group 4 s
 
 - **Design guidance** — co-shape a student's IA idea into a unique, quantifiable research question and a feasible, criteria-ready methodology (scaffolding, never ghost-writing)
 - **Review** — criterion-referenced critique and comments on a student's plan or draft
-- **Marking support** — support the teacher in marking a final report against the official criteria with evidence-based justification, calibrated against 800+ real graded IAs (596 with full four-criteria scores: 220 Biology, 199 Chemistry, 177 Physics)
+- **Marking support** — support the teacher in marking a final report against the official criteria with evidence-based justification, calibrated against 849 recorded graded IAs (596 with full four-criteria scores: 220 Biology, 199 Chemistry, 177 Physics)
 - **Lesson practical design** — plan practicals and activities for lessons from a topic and the equipment the school actually has
 - **Submission pack** — the completeness checks and files needed for IB submission (word count, appendices rule, cover-sheet fields, teacher's per-criterion comments, moderation-sample advice)
 

@@ -106,19 +106,19 @@ Patterns worth internalizing:
 - **Evaluation is the second level-setter** — E 2–3 caps most reports at 4–5; E 6 appears only in the top rows.
 - **The level boundaries match the official grade boundaries**: 9–10 → 3, 13–14 → 4–5, 17–19 → 6, 21 → high 5/6 (boundary 20 = 7). A teacher mark of 20+ on a report whose profile reads like the level-4/5 rows is exactly the over-marking the case study measured.
 
-### The merged calibration dataset (800+ real student IAs)
+### The merged calibration dataset (849 recorded IAs)
 
-All sources combined: a collected corpus of real student IAs with confirmed component grades — session-tagged exemplars from the first three current-syllabus sessions (206 IAs: 91 Biology, 46 Chemistry, 69 Physics) plus a broader four-criteria corpus (**596 IAs: 220 Biology, 199 Chemistry, 177 Physics — complete A–D + totals**). The official Chemistry and Physics assessed samples (6 + 5 commentaries, both 24/24 exemplars) anchor the subject patterns. Aggregate per grade:
+All sources combined: a collected corpus of real student IAs with confirmed component grades — session-tagged exemplars from the first three current-syllabus sessions (253 IAs: 91 Biology, 95 Chemistry, 67 Physics) plus a broader four-criteria corpus (**596 IAs: 220 Biology, 199 Chemistry, 177 Physics — complete A–D + totals**). The official Chemistry and Physics assessed samples (6 + 5 commentaries, both 24/24 exemplars) anchor the subject patterns. Aggregate per grade:
 
-**A (Research design) and B (Data analysis) across 273 IAs:**
+**A (Research design) and B (Data analysis) across 261 IAs:**
 
 | Grade | n | A avg | B avg |
 |---|---|---|---|
 | **7** | 23 | 5.39 | 4.57 |
-| **6** | 75 | 4.88 | 4.01 |
-| **5** | 87 | 4.33 | 3.54 |
-| **4** | 51 | 3.80 | 2.78 |
-| **3** | 37 | 3.05 | 1.81 |
+| **6** | 72 | 4.88 | 4.01 |
+| **5** | 82 | 4.34 | 3.51 |
+| **4** | 50 | 3.80 | 2.78 |
+| **3** | 34 | 3.00 | 1.85 |
 
 **Full four-criteria profiles (220 IAs with A–D and totals):**
 
@@ -153,7 +153,7 @@ The same corpus extended to the other Group 4 sciences. The criteria structure a
 | **4** | 36 | 4.0 | 2.9 | 2.8 | 2.8 | 12.5 |
 | **3** | 8 | 3.6 | 2.5 | 1.5 | 1.8 | 9.4 |
 
-Merged A/B across the full corpus + session-tagged exemplars (251 IAs: 199 full-profile + 52 session-tagged across M25/N25/M26): G7 A 5.30 B 4.98 · G6 A 4.93 B 4.38 · G5 A 4.38 B 3.77 · G4 A 3.93 B 2.98 · G3 A 3.62 B 2.50 — the same monotonic scaling as Biology, with chemistry's B (data analysis) running slightly hotter at every grade band.
+Merged A/B across the full corpus + session-tagged exemplars (270 IAs: 199 full-profile + 71 session-tagged across M25/N25/M26): G7 A 5.28 B 4.98 · G6 A 4.90 B 4.41 · G5 A 4.32 B 3.82 · G4 A 3.93 B 3.00 · G3 A 3.62 B 2.50 — the same monotonic scaling as Biology, with chemistry's B (data analysis) running slightly hotter at every grade band.
 
 **Physics (177 IAs):**
 
@@ -165,7 +165,7 @@ Merged A/B across the full corpus + session-tagged exemplars (251 IAs: 199 full-
 | **4** | 18 | 3.8 | 3.3 | 2.9 | 2.5 | 12.4 |
 | **3** | 6 | 3.5 | 2.2 | 2.3 | 3.0 | 11.0 |
 
-Merged A/B across the full corpus + session-tagged exemplars (213 IAs): G7 A 5.31 B 5.31 · G6 A 4.94 B 4.48 · G5 A 4.62 B 3.82 · G4 A 3.65 B 3.20 · G3 A 3.50 B 2.17 — physics B runs hottest of all three subjects (a grade-7 physics report typically has Data analysis 5+); A is a slightly weaker separator at the top for physics than for biology.
+Merged A/B across the full corpus + session-tagged exemplars (211 IAs): G7 A 5.32 B 5.32 · G6 A 4.94 B 4.48 · G5 A 4.62 B 3.82 · G4 A 3.65 B 3.20 · G3 A 3.50 B 2.17 — physics B runs hottest of all three subjects (a grade-7 physics report typically has Data analysis 5+); A is a slightly weaker separator at the top for physics than for biology.
 
 Subject notes:
 
