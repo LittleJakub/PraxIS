@@ -54,7 +54,7 @@ safety:                        # PPE and safety infrastructure
 Rules:
 
 - Item keys are `snake_case`, descriptive, and stable — renaming breaks nothing but churn the diff.
-- `count` is always a number, or a string beginning with `"stock"` (optionally with a quantity, e.g. `"stock 2 L"`) — never free text like "a few", "on demand", or "made fresh"; put that detail in `notes`.
+- `count` is always a number, or a string beginning with `"stock"` (optionally with a quantity, e.g. `"stock 2 L"`) — never free text like "a few", "on demand", or "made fresh"; put that detail in `notes`. Inventory items always carry a count; `software` entries may omit it and carry `notes` only.
 - Every entry the teacher mentions goes in; nothing is invented. If a quantity is unknown, write `{count: "?"}` and mark it as a follow-up rather than guessing.
 - The file ends with a `## items: N` comment the skill keeps updated, so a stale file is visible at a glance.
 

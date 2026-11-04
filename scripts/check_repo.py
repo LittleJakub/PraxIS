@@ -104,6 +104,8 @@ def check_yaml():
             if not isinstance(val, dict):
                 bad.append(f"{cat}.{key}")
                 continue
+            if "count" not in val and cat == "software":
+                continue
             c = val.get("count")
             if not (isinstance(c, (int, float)) or (isinstance(c, str) and c.startswith("stock"))):
                 bad.append(f"{cat}.{key}={c!r}")
