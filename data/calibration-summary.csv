@@ -1,0 +1,4 @@
+subject,n,mean_total,sd_total,mean_RD,mean_DA,mean_C,mean_E,grade7_count,grade7_percent,below11_count,below11_percent,ab_subset_n
+Biology,220,14.8,3.3,4.4,3.3,3.6,3.4,13,5.9,27,12.3,41
+Chemistry,199,15.9,3.4,4.7,3.8,3.7,3.7,25,12.6,9,4.5,72
+Physics,177,17.2,3.3,4.9,4.3,4.1,4.0,45,25.4,5,2.8,35

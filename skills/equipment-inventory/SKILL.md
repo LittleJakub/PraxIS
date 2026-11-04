@@ -1,11 +1,11 @@
----
+﻿---
 name: equipment-inventory
 description: Maintain a YAML lab inventory file for the IB DP Sciences (Biology, Chemistry, Physics).
 allowed-tools: Read Write Edit Bash
 compatibility: Requires Python >=3.10. No external services.
 license: MIT
 metadata:
-  version: "0.1.0"
+  version: "0.1.1"
   skill-author: Jakub Grzeszczuk (via Hermes Agent)
 ---
 

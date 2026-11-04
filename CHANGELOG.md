@@ -1,13 +1,29 @@
-# Changelog
+﻿# Changelog
 
 All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the project uses
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [0.3.1] - 2026-11-04
+
+Calibration tables regenerated and re-verified; four stale figures corrected.
+
+### Added
+
+- `references/calibration-method.md`: corpus provenance, counts, what is generated versus
+  descriptive, the verification gate, and the limits to state when quoting a figure.
+- `data/calibration-distributions.csv`, `calibration-summary.csv`, `calibration-merged-ab.csv`
+  and `calibration-cross-criterion.csv`: the same numbers in machine-readable form.
 
 ### Fixed
 
+- The Biology Evaluation distribution now shows the one report that scored 0, so the
+  column sums to 220 rather than 219.
+- The Chemistry and Physics per-grade profile tables and merged A/B lines now include the
+  single grade-2 report in each subject; the merged counts are 271 and 212 (not 270 and
+  211), and the A/B subset is 148 session-tagged reports (41 / 72 / 35).
+- The grade-label deviation sentence now reads 20 of 220 (9.1%), which is what the corpus
+  produces against the published boundary map.
 - `plugin.json` no longer declares a `skills` array. Agent Plugins 1.0.0 has a closed
   manifest schema and discovers skills from the fixed `skills/` location, so the field
   was non-conformant and ignored by clients.

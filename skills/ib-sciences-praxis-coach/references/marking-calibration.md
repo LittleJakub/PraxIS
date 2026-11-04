@@ -136,7 +136,7 @@ What the merged data settles:
 - **B (Data analysis) is the strongest gate at the bottom**: grade 3 reports average B 1.8 — B ≤ 2 almost never coexists with a grade above 3. If your B is 3, the grade is 4–5; if B is 4+, the grade is 5–6.
 - **A (Research design) is the strongest gate at the top**: A averages 4.3 at grade 5 but 5.0 at grade 6 and 5.4 at grade 7. An RD that reads 3–4 cannot be a 6, however strong the analysis — check RD first when a report feels like a 6.
 - **C and E each contribute ~0.5–0.6 marks of separation per grade** — the 5-vs-6 decision is genuinely spread across all four criteria; don't try to settle it on one.
-- **Trust the summed criteria, not the reported grade label**: 19 of 220 reported grade labels (8.6%) deviate from the official boundary implied by their criterion sum (a grade-6-labelled IA with 12/24, a grade-7-labelled IA with 16/24). Sum A+B+C+D, then map to boundaries: ≤10 → 3, 11–13 → 4, 14–16 → 5, 17–19 → 6, ≥20 → 7.
+- **Trust the summed criteria, not the reported grade label**: 20 of 220 reported grade labels (9.1%) deviate from the official boundary implied by their criterion sum (a grade-6-labelled IA with 12/24, a grade-7-labelled IA with 16/24). Sum A+B+C+D, then map to boundaries: ≤10 → 3, 11–13 → 4, 14–16 → 5, 17–19 → 6, ≥20 → 7.
 - **Collapsed criteria cap reports**: G6 with B1, G4 with B0, G3 with RD1 — one empty strand drags the best-fit mark down hard. Mark the weakest strand honestly.
 
 ### Subject profiles — Chemistry (199 IAs) and Physics (177 IAs), full four criteria
@@ -151,9 +151,10 @@ The same corpus extended to the other Group 4 sciences. The criteria structure a
 | **6** | 67 | 5.0 | 4.3 | 4.0 | 4.2 | 17.5 |
 | **5** | 58 | 4.5 | 3.6 | 3.3 | 3.5 | 14.9 |
 | **4** | 36 | 4.0 | 2.9 | 2.8 | 2.8 | 12.5 |
+| **2** | 1 | 2.0 | 1.0 | 1.0 | 1.0 | 5.0 |
 | **3** | 8 | 3.6 | 2.5 | 1.5 | 1.8 | 9.4 |
 
-Merged A/B across the full corpus + session-tagged exemplars (270 IAs: 199 full-profile + 71 session-tagged across M25/N25/M26): G7 A 5.28 B 4.98 · G6 A 4.90 B 4.41 · G5 A 4.32 B 3.82 · G4 A 3.93 B 3.00 · G3 A 3.62 B 2.50 — the same monotonic scaling as Biology, with chemistry's B (data analysis) running slightly hotter at every grade band.
+Merged A/B across the full corpus + session-tagged exemplars (271 IAs: 199 full-profile + 72 session-tagged across M25/N25/M26): G7 A 5.28 B 4.98 · G6 A 4.90 B 4.41 · G5 A 4.32 B 3.82 · G4 A 3.93 B 3.00 · G3 A 3.62 B 2.50 · G2 A 2.00 B 1.00 — the same monotonic scaling as Biology, with chemistry's B (data analysis) running slightly hotter at every grade band.
 
 **Physics (177 IAs):**
 
@@ -163,9 +164,10 @@ Merged A/B across the full corpus + session-tagged exemplars (270 IAs: 199 full-
 | **6** | 55 | 5.1 | 4.5 | 4.3 | 4.3 | 18.1 |
 | **5** | 52 | 4.7 | 3.8 | 3.5 | 3.5 | 15.5 |
 | **4** | 18 | 3.8 | 3.3 | 2.9 | 2.5 | 12.4 |
+| **2** | 1 | 2.0 | 1.0 | 1.0 | 1.0 | 5.0 |
 | **3** | 6 | 3.5 | 2.2 | 2.3 | 3.0 | 11.0 |
 
-Merged A/B across the full corpus + session-tagged exemplars (211 IAs): G7 A 5.32 B 5.32 · G6 A 4.94 B 4.48 · G5 A 4.62 B 3.82 · G4 A 3.65 B 3.20 · G3 A 3.50 B 2.17 — physics B runs hottest of all three subjects (a grade-7 physics report typically has Data analysis 5+); A is a slightly weaker separator at the top for physics than for biology.
+Merged A/B across the full corpus + session-tagged exemplars (212 IAs): G7 A 5.32 B 5.32 · G6 A 4.94 B 4.48 · G5 A 4.62 B 3.82 · G4 A 3.65 B 3.20 · G3 A 3.50 B 2.17 · G2 A 2.00 B 1.00 — physics B runs hottest of all three subjects (a grade-7 physics report typically has Data analysis 5+); A is a slightly weaker separator at the top for physics than for biology.
 
 Subject notes:
 

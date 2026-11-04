@@ -1,11 +1,11 @@
----
+﻿---
 name: ib-sciences-praxis-coach
 description: "IB DP Sciences practical and IA coach (Biology, Chemistry, Physics). Use when a teacher asks for help with an IA topic or research question, wants a draft reviewed or marked against the four IA criteria, needs a lesson practical built around the school's own equipment, or needs an IB submission or moderation pack."
 allowed-tools: Read Write Edit Bash
 compatibility: Python >=3.10 for optional data processing. No external services. Works from the teacher's description of equipment and goals — no database required.
 license: MIT
 metadata:
-  version: "0.3.0"
+  version: "0.3.1"
   skill-author: Jakub Grzeszczuk (via Hermes Agent)
 ---
 
@@ -33,7 +33,7 @@ Don't use for: writing a student's IA report or any part of it (academic malprac
 - For grade context: `references/grade-boundaries.md` maps IA component marks to grade boundaries and explains what the marks mean for the student's final grade.
 - For mark-capping patterns: `references/anti-patterns.md` is a comprehensive list of what caps marks per criterion, with evidence from examiner reports and the moderation case study.
 - For practical feasibility: `references/investigation-feasibility.md` is a topic × equipment × time × level matrix for Mode D and Mode A.
-- For calibration context (596 scored reports): `references/calibration-distributions.md` (mark distributions per criterion per subject — what marks actually occur), `references/calibration-band-transitions.md` (features that predict moving between bands), `references/calibration-cross-criterion.md` (criterion correlations — flag inconsistent profiles), `references/calibration-subject-patterns.md` (per-subject means, spreads, grade-7 rates), `references/calibration-investigation-types.md` (scores by hands-on/database/simulation/fieldwork), `references/calibration-topic-intelligence.md` (topic frequency and scoring — which topics are overused), `references/calibration-commentary-intelligence.md` (the deep layer: what the evaluator commentary praises and flags, per subject × criterion × band — read the criterion section before finalizing a mark), and `references/calibration-feedback-library.md` (the fine-grained layer: paraphrased examiner/teacher/student phrasings per specific issue, with frequency and band evidence — the wording source for feedback and mark justifications).
+- For calibration context (596 scored reports): `references/calibration-distributions.md` (mark distributions per criterion per subject — what marks actually occur), `references/calibration-band-transitions.md` (features that predict moving between bands), `references/calibration-cross-criterion.md` (criterion correlations — flag inconsistent profiles), `references/calibration-subject-patterns.md` (per-subject means, spreads, grade-7 rates), `references/calibration-investigation-types.md` (scores by hands-on/database/simulation/fieldwork), `references/calibration-topic-intelligence.md` (topic frequency and scoring — which topics are overused), `references/calibration-commentary-intelligence.md` (the deep layer: what the evaluator commentary praises and flags, per subject × criterion × band — read the criterion section before finalizing a mark), and `references/calibration-feedback-library.md` (the fine-grained layer: paraphrased examiner/teacher/student phrasings per specific issue, with frequency and band evidence — the wording source for feedback and mark justifications). When a calibration number drives a mark or a comment, check its provenance and limits in `references/calibration-method.md`; the same counts are machine-readable in `data/calibration-*.csv`.
 
 ## Mode A — Design guidance (procedure)
 
