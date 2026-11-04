@@ -1,4 +1,4 @@
-﻿---
+---
 name: ib-sciences-praxis-coach
 description: "IB DP Sciences practical and IA coach (Biology, Chemistry, Physics). Use when a teacher asks for help with an IA topic or research question, wants a draft reviewed or marked against the four IA criteria, needs a lesson practical built around the school's own equipment, or needs an IB submission or moderation pack."
 allowed-tools: Read Write Edit Bash

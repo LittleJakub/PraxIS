@@ -1,4 +1,4 @@
-﻿# Changelog
+# Changelog
 
 All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the project uses
@@ -10,6 +10,10 @@ Calibration tables regenerated and re-verified; four stale figures corrected.
 
 ### Added
 
+- `scripts/check_repo.py` and `scripts/check_calibration.py`, plus a `validate` GitHub
+  Actions workflow: manifest shape, skill frontmatter, relative links and the inventory
+  example on every push, and 190 assertions that `data/*.csv` still matches the published
+  tables.
 - `references/calibration-method.md`: corpus provenance, counts, what is generated versus
   descriptive, the verification gate, and the limits to state when quoting a figure.
 - `data/calibration-distributions.csv`, `calibration-summary.csv`, `calibration-merged-ab.csv`
@@ -17,6 +21,8 @@ Calibration tables regenerated and re-verified; four stale figures corrected.
 
 ### Fixed
 
+- `plugin.json` and four Markdown files no longer carry a UTF-8 BOM. Strict JSON parsers
+  rejected the manifest; the others were cosmetic but inconsistent.
 - The Biology Evaluation distribution now shows the one report that scored 0, so the
   column sums to 220 rather than 219.
 - The Chemistry and Physics per-grade profile tables and merged A/B lines now include the

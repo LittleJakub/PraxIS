@@ -1,4 +1,4 @@
-﻿---
+---
 name: equipment-inventory
 description: Maintain a YAML lab inventory file for the IB DP Sciences (Biology, Chemistry, Physics).
 allowed-tools: Read Write Edit Bash
