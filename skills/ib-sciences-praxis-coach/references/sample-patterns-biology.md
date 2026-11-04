@@ -1,4 +1,4 @@
-# What the Examplars Teach — Patterns from the Official Assessed Samples
+﻿# What the Exemplars Teach — Patterns from the Official Assessed Samples
 
 Distilled in the author's own words from the official IB DP Biology assessed samples (current criteria) that ship with the teacher support material. Every claim below is a pattern observed in the examiner commentaries — the strongest available evidence for what moves marks. Use in Mode A (design scaffolding), Mode B (review comments), and Mode C (marking).
 

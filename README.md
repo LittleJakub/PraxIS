@@ -68,7 +68,7 @@ The skill encodes the criteria, assessment methodology, data rules, safety/ethic
 ## What's deliberately NOT here
 
 - **Generic scientific tooling** — install the K-Dense scientific-agent-skills collection separately (see above).
-- **IB-copyrighted content** — criteria and guidance are paraphrased in the author's own words; the official IB publications remain the authority. The skill can consult the teacher's own copies (e.g. `IB_DOCS_DIR`) for exact descriptor wording.
+- **IB-copyrighted content** — criteria and guidance are paraphrased in the author's own words; the official IB publications remain the authority. Where exact descriptor wording matters, the skill works from excerpts of the teacher's own copy (pasted or attached) rather than reproducing it.
 - **School-specific data** — real inventories, school policies, and student work stay in private files outside this repo.
 - **Anything a student could submit as their own IA** — the coach scaffolds and evaluates; it never writes student work.
 

@@ -5,7 +5,7 @@ Author's own-words digest of the conventions that examiners expect in IB DP Phys
 ## Uncertainty handling (physics)
 
 - **Physics is the propagation subject**: uncertainties must be tracked through every calculation. Absolute (Δx), relative (Δx/x), and percentage forms; multiplication/division → add fractional/percentage errors; addition/subtraction → add absolute errors; powers → multiply the fractional error by the power. Quadrature (√(a²+b²)) is the rigorous treatment; the TSM accepts linear addition at student level — but a claim like "uncertainty negligible" without justification caps the uncertainties strand.
-- **Reading errors**: digital instruments → ± half the last digit (or the stated resolution); analogue scales → ± half the smallest division; stopwatch reaction time ±0.2–0.3 s (often dominates — students should justify the value); ruler parallax and end-error.
+- **Reading errors**: digital instruments → ±1 in the last displayed digit (the least count; use the manufacturer's stated accuracy where it is larger); analogue scales → ± half the smallest division; stopwatch reaction time ±0.2–0.3 s (often dominates — students should justify the value); ruler parallax and end-error.
 - **Repeated measurements**: physics follows the half-range rule, not SD — the mean uncertainty is the larger of (one-half the range) and (the individual reading uncertainty); if repeats show no variation at all, use the least count. Statistical analysis (SD, t-tests) is NOT the expected route in physics — propagation is (see the TSM conventions below).
 - **Graphical uncertainties**: error bars from the measurement uncertainty; best-fit line with max/min slope lines to quote gradient ± uncertainty; intercept uncertainty similarly.
 
