@@ -112,8 +112,33 @@ def check_yaml():
     ok(f"inventory counts are numbers or stock strings (bad: {bad})", not bad)
 
 
+def check_versions():
+    """plugin.json, the coach frontmatter, CHANGELOG and README must agree."""
+    import json as _json
+    with open(os.path.join(ROOT, "plugin.json"), encoding="utf-8") as f:
+        plugin = _json.load(f)
+    version = plugin.get("version", "")
+    ok("plugin.json version is a dotted number", bool(re.match(r"^\d+\.\d+\.\d+$", version)))
+
+    skill = os.path.join(ROOT, "skills", "ib-sciences-praxis-coach", "SKILL.md")
+    with open(skill, encoding="utf-8") as f:
+        m = re.search(r"^\s+version:\s*\"?([\d.]+)\"?", f.read(), re.M)
+    ok(f"coach SKILL.md version matches plugin.json ({m.group(1) if m else None} vs {version})",
+       bool(m) and m.group(1) == version)
+
+    with open(os.path.join(ROOT, "CHANGELOG.md"), encoding="utf-8") as f:
+        m = re.search(r"^## \[([^\]]+)\]", f.read(), re.M)
+    ok(f"CHANGELOG's newest section matches plugin.json ({m.group(1) if m else None} vs {version})",
+       bool(m) and m.group(1) == version)
+
+    with open(os.path.join(ROOT, "README.md"), encoding="utf-8") as f:
+        readme = f.read()
+    ok(f"README mentions the current version (v{version})", f"v{version}" in readme)
+
+
 def main():
     check_manifest()
+    check_versions()
     check_skills()
     check_links()
     check_yaml()

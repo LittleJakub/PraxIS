@@ -2,7 +2,7 @@
 
 Curriculum-layer [Agent Skills](https://agentskills.io/) for the IB DP Group 4 sciences — **Biology, Chemistry, and Physics** — built from the official IB sciences guides, teacher support material, sciences experimentation guidelines, the official assessed samples, and a large corpus of real graded IAs used for calibration.
 
-> **Status: in development** (v0.3.0). Skills are drafted and being tested live. Not yet published.
+> **Status: in development** (v0.3.1). Skills are drafted and being tested live; releases are tagged on GitHub and the calibration figures are regenerated and checked in CI.
 
 ## What this is
 
