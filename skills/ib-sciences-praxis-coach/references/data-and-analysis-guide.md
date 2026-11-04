@@ -21,7 +21,7 @@ Teacher-authored digest in our own words from the official TSM ("Unpacking the i
 - Tables and graphs are referenced in the text (Figure 1, Graph 1). Inadequate axis labels, legends, titles, proportions, and scaling all cap the Data analysis mark.
 - A mean / SD / range at the foot of the column or row it summarises already counts as processing. For spreadsheets, a screenshot showing the formula is fine; unusual processing needs a worked example.
 - Device-derived values (an instrument that directly outputs "rate") are raw data, not processed. Software-generated graphs are raw data; gradients or area-under-curve can extend the processing.
-- Graphs: dot-to-dot is acceptable (never penalize it for continuous variables); a trend line adds value especially with uncertainty bars, r, or R². Graphing raw data when processed data would answer the question better is insufficient but not wrong. Choose the graph type to fit the data.
+- Graphs: joining points is acceptable for showing raw data (never penalize it for continuous variables), but a *trend claim* needs a best-fit line — a dot-to-dot line shows the data, not the trend. A trend line adds value especially with uncertainty bars, r, or R². Graphing raw data when processed data would answer the question better is insufficient but not wrong. Choose the graph type to fit the data.
 - Qualitative observations (labelled images, drawings, descriptions) accompany raw data where relevant.
 
 ## Uncertainties

@@ -71,7 +71,7 @@ Uncertainties from standard analytical chemistry references (Harris, *Quantitati
 | **Analytical balance** (4 decimal) | 0.0001 g | ±0.0002 g (±0.0001 g reading error × 2) | Weighing by difference preferred |
 | **Top-pan balance** (3 decimal) | 0.001 g | ±0.002 g | Common in school labs |
 | **Top-pan balance** (2 decimal) | 0.01 g | ±0.02 g | Most common school balance |
-| **Top-pan balance** (1 decimal) | 0.1 g | ±0.1 g | Low precision; ±0.05 g reading error |
+| **Top-pan balance** (1 decimal) | 0.1 g | ±0.1 g | Low precision; ±0.2 g by difference |
 | **Spring balance** | 0.1–0.5 N | ±0.5 N (typical) | Parallax and friction; poor for IA |
 
 ### Thermometers
@@ -108,7 +108,7 @@ Uncertainties from standard analytical chemistry references (Harris, *Quantitati
 
 ## 4. General rules when the specific instrument is unknown
 
-1. **Digital instruments**: uncertainty = ± half the last displayed digit (e.g., reading 24.35 → ±0.005, but in practice ±0.01 is more realistic for school instruments)
+1. **Digital instruments**: uncertainty = ±1 in the last displayed digit (the least count: a reading of 24.35 → ±0.01), unless the manufacturer's stated accuracy is larger — then use that. Never quote ± half the last digit: a display that rounds to 0.01 cannot be trusted to 0.005.
 2. **Analogue scales**: uncertainty = ± half the smallest division (e.g., ruler with 1 mm divisions → ±0.5 mm)
 3. **Stopwatch/timer**: uncertainty = ±0.2 s (human reaction time); justify the value
 4. **Repeated measurements**: physics uses the half-range rule (larger of: half the range of repeats, or the individual reading uncertainty); biology uses SD/SEM per the n-rules; chemistry uses concordance for titrations

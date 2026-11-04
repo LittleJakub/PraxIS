@@ -6,7 +6,7 @@ Author's own-words digest of the conventions that examiners expect in IB DP Chem
 
 - **Instrument uncertainties matter quantitatively**: burette ±0.05 cm³ per reading (two readings → ±0.10 cm³ for a titre), pipette ±0.06 cm³, volumetric flask ±0.1–0.2 cm³, balance ±0.001 g (analytical) or ±0.01 g, thermometer ±0.5 °C (or better with a probe), pH meter ±0.01–0.05.
 - **Report with the right precision**: a titre of 24.35 cm³, never 24.3; the number of decimal places follows the instrument, not the calculator.
-- **Percentage error is expected** for concentrations and derived quantities: % error = (uncertainty / value) × 100. When several quantities combine, add percentage errors for multiplication/division (conservative, student-level approach); the TSM expects propagation to be attempted, not perfect — but ignoring it entirely caps the uncertainties strand.
+- **Percentage uncertainty is expected** for concentrations and derived quantities: % uncertainty = (uncertainty / value) × 100. When several quantities combine, add percentage uncertainties for multiplication/division (conservative, student-level approach); the TSM expects propagation to be attempted, not perfect — but ignoring it entirely caps the uncertainties strand. Keep the terms apart: **percentage error** compares a measured value with an accepted one, % error = |measured − accepted| / accepted × 100; **percentage difference** compares two measured values (e.g. two methods), not a measurement with a literature value.
 - **Titration protocol**: concordant titres within 0.10–0.20 cm³; repeat until concordant; use the mean of concordant titres; identify the rough titre as separate.
 - **Calibration**: quote calibration of the balance (two-point), thermometer/probe against a standard, and any colorimeter/spectrophotometer blank. A calibration statement is cheap marks in Research design.
 
@@ -16,7 +16,7 @@ Author's own-words digest of the conventions that examiners expect in IB DP Chem
 - **Rates**: initial-rate methods (gradient of the tangent at t=0) need the method stated; concentration–time graphs for continuous monitoring.
 - **Trends and models**: linearization (e.g. 1/[A], ln[A]) and R² for fits; Arrhenius plots for temperature dependence — with the slope interpreted, not just quoted.
 - **Graphs**: scatter with best-fit line (not connect-the-dots); error bars where uncertainties are known; axes with units; gradient ± uncertainty (max/min slope method) for rate and calibration data.
-- **Averages**: mean ± SD for ≥3 replicates; identify outliers via 1.5×IQR or a stated, justified rule — never silent removal.
+- **Averages**: mean ± SD for ≥5 replicates (the shared n-rule; with 3–4 replicates report mean and range instead); identify outliers via 1.5×IQR or a stated, justified rule — never silent removal.
 
 ## Typical investigation types
 

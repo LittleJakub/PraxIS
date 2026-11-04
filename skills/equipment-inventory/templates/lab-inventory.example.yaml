@@ -35,7 +35,7 @@ chemicals:
   amylase:           {count: "stock 250 mL", notes: "1% w/v"}
   iodine_solution:   {count: "stock 250 mL", notes: "Lugol's"}
   dcpip:             {count: "stock 100 mL", notes: "0.1% w/v, light-sensitive"}
-  yeast_suspension:  {count: "made fresh", notes: "for respiration practicals"}
+  yeast_suspension:  {count: 1, notes: "fresh suspension made up on the day"}
   methylene_blue:    {count: "stock 100 mL", notes: "0.01% w/v"}
 
 consumables:
@@ -44,7 +44,7 @@ consumables:
   paper_towel:        {count: "stock"}
   rubber_band:        {count: 100}
   aluminium_foil:     {count: "stock"}
-  ice:                {count: "on demand", notes: "from kitchen"}
+  ice:                {count: "stock", notes: "from kitchen; replenished on demand"}
 
 glassware:
   test_tube:        {count: 200}

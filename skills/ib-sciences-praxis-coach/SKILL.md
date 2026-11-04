@@ -1,6 +1,6 @@
 ---
 name: ib-sciences-praxis-coach
-description: "PraxIS: IB DP Sciences practical & IA coach."
+description: "IB DP Sciences practical and IA coach (Biology, Chemistry, Physics). Use when a teacher asks for help with an IA topic or research question, wants a draft reviewed or marked against the four IA criteria, needs a lesson practical built around the school's own equipment, or needs an IB submission or moderation pack."
 allowed-tools: Read Write Edit Bash
 compatibility: Python >=3.10 for optional data processing. No external services. Works from the teacher's description of equipment and goals — no database required.
 license: MIT

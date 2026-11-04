@@ -108,7 +108,7 @@ Patterns worth internalizing:
 
 ### The merged calibration dataset (849 recorded IAs)
 
-All sources combined: a collected corpus of real student IAs with confirmed component grades — session-tagged exemplars from the first three current-syllabus sessions (253 IAs: 91 Biology, 95 Chemistry, 67 Physics) plus a broader four-criteria corpus (**596 IAs: 220 Biology, 199 Chemistry, 177 Physics — complete A–D + totals**). The official Chemistry and Physics assessed samples (6 + 5 commentaries, both 24/24 exemplars) anchor the subject patterns. Aggregate per grade:
+All sources combined: a collected corpus of real student IAs with confirmed component grades — session-tagged exemplars from the first three current-syllabus sessions (253 IAs: 91 Biology, 95 Chemistry, 67 Physics) plus a broader four-criteria corpus (**596 IAs: 220 Biology, 199 Chemistry, 177 Physics — complete A–D + totals**). The official Chemistry and Physics assessed samples (7 + 7 commentaries, including each subject's 24/24 exemplar) anchor the subject patterns. Aggregate per grade:
 
 **A (Research design) and B (Data analysis) across 261 IAs:**
 

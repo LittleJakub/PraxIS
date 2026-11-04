@@ -14,7 +14,7 @@ Comprehensive list of patterns that reliably cap IA marks, drawn from the offici
 | RQ answerable by a quick search | "Does pH affect amylase activity?" — the answer is in every textbook | Strand 1 at 1–2 |
 | No background theory / context | RQ stated in isolation; no reference to the science behind the variables | Strand 1 at 1–2 |
 | IV range/interval unjustified | "I will use 5 concentrations" — no rationale for why these values or this spacing | Strand 2 at 1–2 |
-| No trial investigation mentioned | Range chosen by guesswork; no preliminary data | Strand 2 at 1–2 |
+| No trial investigation mentioned | Range chosen by guesswork; no preliminary data | Strand 3 at 3–4 |
 | Control variables listed but not controlled | "Temperature will be kept constant" — how? Room temp? Water bath? | Strand 2 at 1–2 |
 | Confounding variables not monitored | Room temperature, humidity, light — stated as "controlled" but not recorded | Strand 2 at 1–2 |
 | Method is a list of steps with no rationale | "Step 1... Step 2..." — no explanation of WHY each step is done | Strand 3 at 1–2 |

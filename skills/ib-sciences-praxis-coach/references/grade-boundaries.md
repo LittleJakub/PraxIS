@@ -78,9 +78,9 @@ Physics SL grade 7 boundary: **65–70%** (average ~65%, recent sessions).
 
 ## What this means for IA marking
 
-1. **A score of 18/24 (component grade 6) is a strong IA**. It gives the student a solid foundation — they need roughly 60–65% on their exam papers to reach an overall grade 6 or 7.
+1. **A score of 18/24 (component grade 6) is a strong IA**. It gives the student a solid foundation — with an overall grade-6 boundary around 64%, roughly 60% on the exam papers is then enough; an overall grade 7 (boundary around 77%) still needs about 75–80% on the papers.
 
-2. **A score of 14/24 (component grade 5) is the median**. Most students land here. It means the exam papers need to do more work — roughly 70%+ on papers to reach an overall grade 6.
+2. **A score of 14/24 (component grade 5) is the median**. Most students land here. It means the exam papers need to do more work — roughly 65–70% on papers to reach an overall grade 6.
 
 3. **A score of 20+/24 (component grade 7) is rare and powerful**. It effectively gives the student a 4–5 mark head start toward the overall grade 7 boundary. Even mediocre exam performance can still yield an overall 6.
 
